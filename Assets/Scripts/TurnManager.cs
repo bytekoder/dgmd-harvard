@@ -22,6 +22,8 @@ public class TurnManager : MonoBehaviour
     void Update()
     {
 //        Debug.Log("Inside TurnManager#Update");
+
+        // // replaced "turnTeam" as a Queue<T> to become "turnTeamList" as a List<T>
         // if (turnTeam.Count == 0)
         // {
         //     InitTeamTurnQueue();
@@ -82,20 +84,27 @@ public class TurnManager : MonoBehaviour
             TacticsMove unit = turnTeamList[i];
 
             unit.moving = false;
-            if (unit.moved)
-            {
+
+            // // updated by: emgillis
+            // // updated on: 2018-11-08
+            // // updated for: removing "moved" check to allow player to continue having move options
+            // //        also helps with NPC to have continuous movement / tracking to get to player
+            //if (unit.moved)
+            //{
 //                Debug.Log("Removing TeamMember: " + turnTeamList[i].name);
-                // turnTeamList[i].EndTurn();
-                turnTeamList.RemoveAt(i);
-                unit.EndTurn();
-            }
+                // // turnTeamList[i].EndTurn();
+               // turnTeamList.RemoveAt(i);
+               // unit.EndTurn();
+            //}
         }
 
+
+        // Debug.Log("TurnManagerEndTurn: " + unit.name);
+
+        // // removed as part of updating turnTeam to become turnTeamList
         // TacticsMove unit = turnTeam.Dequeue();
         // unit.EndTurn();
         // unit.HasMoved();
-
-        // Debug.Log("TurnManagerEndTurn: " + unit.name);
 
         // if (turnTeam.Count > 0)
         // {

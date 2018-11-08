@@ -23,8 +23,12 @@ public class TacticsMove : MonoBehaviour
     // Is moving?
     public bool moving = false;
     
+    // // updated by: emgillis
+    // // updated on: 2018-11-08
+    // // updated for: removed "moved" option so that it allows better auto (AI) NPC move
+    // //         & still maintain Player character control
     // Has moved?
-    public bool moved = false;
+    // public bool moved = false;
 
     // Max moves per turn
     public int move = 5;
@@ -62,9 +66,19 @@ public class TacticsMove : MonoBehaviour
 
     public void Reset()
     {
+
+        // // updated by: emgillis
+        // // updated on: 2018-11-08
+        // // updated for: moved "turn" and "moving" resets to child classes (PlayerMove and NPCMove)
+        // //        also helps with NPC to have continuous movement / tracking to get to player
         turn = false;
         moving = false;
-        moved = false;
+
+        // // updated by: emgillis
+        // // updated on: 2018-11-08
+        // // updated for: removing "moved" check to allow player to continue having move options
+        // //        also helps with NPC to have continuous movement / tracking to get to player
+        //moved = false;
     }
 
     protected void Init()
@@ -202,7 +216,7 @@ public class TacticsMove : MonoBehaviour
             RemoveSelectableTiles();
             moving = false;
             // Debug.Log("stopped moving " + name);
-            moved = true;
+            //moved = true;
 
             TurnManager.EndTurn();
         }
@@ -444,15 +458,23 @@ public class TacticsMove : MonoBehaviour
         // Debug.Log("EndTurn: " + name);
     }
 
-    public void HasMoved()
-    {
-        moved = true;
-        // Debug.Log("HasMoved: " + name);
-    }
+    // // updated by: emgillis
+    // // updated on: 2018-11-08
+    // // updated for: removed "moved" option so that it allows better auto (AI) NPC move
+    // //         & still maintain Player character control
+//    public void HasMoved()
+//    {
+//        moved = true;
+//        // Debug.Log("HasMoved: " + name);
+//    }
 
-    public void HasNotMoved()
-    {
-        moved = false;
-        // Debug.Log("HasNotMoved: " + name);
-    }
+    // // updated by: emgillis
+    // // updated on: 2018-11-08
+    // // updated for: removed "moved" option so that it allows better auto (AI) NPC move
+    // //         & still maintain Player character control
+//    public void HasNotMoved()
+//    {
+//        moved = false;
+//        // Debug.Log("HasNotMoved: " + name);
+//    }
 }

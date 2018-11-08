@@ -5,6 +5,21 @@ using UnityEngine;
 public class PlayerMove : TacticsMove
 {
 
+    void Reset()
+    {
+        // // updated by: emgillis
+        // // updated on: 2018-11-08
+        // // updated for: setting default of turn & moving to false
+        // //         Note: this is moved to here because the reset value should be different between player and NPC
+        // //         because NPC is always moving (like AI actor) and Player is not
+        // Is moving?
+//        moving = false;
+
+        // In turn?
+//        turn = false;
+        
+    }
+
     void Start()
     {
 //        Debug.Log("Inside PlayerMove class");
@@ -54,22 +69,17 @@ public class PlayerMove : TacticsMove
                     moving = false;
                     EndTurn();
 
-                    if (this == p && !p.moved)
+            // // updated by: emgillis
+            // // updated on: 2018-11-08
+            // // updated for: removing "moved" check to allow player to continue having move options
+            // //        also helps with NPC to have continuous movement / tracking to get to player
+                    if (this == p)// && !p.moved)
                     {
                         BeginTurn();
 //                        Debug.Log("You Clicked Me! " + name);
                     }
 
-                    // turn = false;
-                    // RemoveSelectableTiles();
-                    // EndTurn();
-                    // // p.isSelected = true;
-                    // p.BeginTurn();
-                    // p.FindSelectableTiles();
-                    // p.HasMoved();
-                    // p.RemoveSelectableTiles();
                 }
-                // moved = true;
 
 
                 if (hit.collider.CompareTag("Tile"))

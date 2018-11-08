@@ -6,10 +6,31 @@ public class NPCMove : TacticsMove
 {
     GameObject target;
 
+
+    void Reset()
+    {
+        // // updated by: emgillis
+        // // updated on: 2018-11-08
+        // // updated for: setting default of NPC to always be "within turn" and "moving" so that it acts like AI
+        // Is moving?
+        // because NPC, yes, always moving ... AI actor
+//        moving = true;
+
+   
+        // // updated by: emgillis
+        // // updated on: 2018-11-08
+        // // updated for: setting default of NPC to always be "within turn" and "moving" so that it acts like AI
+        // In turn?
+        // because NPC, yes, always in turn ... AI actor
+//        turn = true;
+        
+    }
+
 	// Use this for initialization
 	void Start () 
 	{
 //	    Debug.Log("Inside NPCMove class");
+
         Init();
 	}
 	
