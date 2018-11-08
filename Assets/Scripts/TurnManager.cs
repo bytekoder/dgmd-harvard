@@ -5,19 +5,23 @@ using UnityEngine;
 public class TurnManager : MonoBehaviour
 {
     static Dictionary<string, List<TacticsMove>> units = new Dictionary<string, List<TacticsMove>>();
+
     static Queue<string> turnKey = new Queue<string>();
+
     // static Queue<TacticsMove> turnTeam = new Queue<TacticsMove>();
     static List<TacticsMove> turnTeamList = new List<TacticsMove>();
 
-	// Use this for initialization
-	void Start ()
-	{
 
-	}
+    void Start()
+    {
+//        Debug.Log("Inside TurnManager class");
 
-	// Update is called once per frame
-	void Update ()
-	{
+    }
+
+    // Update is called once per frame
+    void Update()
+    {
+//        Debug.Log("Inside TurnManager#Update");
         // if (turnTeam.Count == 0)
         // {
         //     InitTeamTurnQueue();
@@ -27,12 +31,13 @@ public class TurnManager : MonoBehaviour
         {
             InitTeamTurnQueue();
         }
-
-	}
+    }
 
     static void InitTeamTurnQueue()
     {
-      // Debug.Log(units);
+//        Debug.Log("Inside TurnManager#InitTeamTurnQueue");
+
+        // Debug.Log(units);
         List<TacticsMove> teamList = units[turnKey.Peek()];
 
         // removed to allow dynamic choice of which player is active
@@ -49,41 +54,41 @@ public class TurnManager : MonoBehaviour
 
     public static void StartTurn()
     {
-
+//        Debug.Log("Inside TurnManager#StartTurn");
         if (turnTeamList.Count > 0)
         {
-          // Debug.Log("turnTeamList.Count = " + turnTeamList.Count);
+//            Debug.Log("turnTeamList.Count = " + turnTeamList.Count);
 
-          foreach(TacticsMove teamMember in turnTeamList)
-          {
-            // Debug.Log("Building List: " + teamMember.name + " as " + teamMember.tag);
+            foreach (TacticsMove teamMember in turnTeamList)
+            {
+//                Debug.Log("Building List: " + teamMember.name + " as " + teamMember.tag);
 
-              if(teamMember.tag == "NPC")
-              {
-                teamMember.BeginTurn();
-              }
-          }
-
+                if (teamMember.CompareTag("NPC"))
+                {
+//                    Debug.Log("NPC about to play...");
+                    teamMember.BeginTurn();
+                   
+                }
+            }
         }
-
     }
 
     public static void EndTurn()
     {
-        // Debug.Log("TurnManager.EndTurn()");
+//        Debug.Log("TurnManager.EndTurn()");
 
-        for(int i=0; i < turnTeamList.Count; i++)
+        for (int i = 0; i < turnTeamList.Count; i++)
         {
-          TacticsMove unit = turnTeamList[i];
+            TacticsMove unit = turnTeamList[i];
 
-          unit.moving = false;
-          if(unit.moved)
-          {
-            // Debug.Log("Removing TeamMember: " + turnTeamList[i].name);
-            // turnTeamList[i].EndTurn();
-            turnTeamList.RemoveAt(i);
-            unit.EndTurn();
-          }
+            unit.moving = false;
+            if (unit.moved)
+            {
+//                Debug.Log("Removing TeamMember: " + turnTeamList[i].name);
+                // turnTeamList[i].EndTurn();
+                turnTeamList.RemoveAt(i);
+                unit.EndTurn();
+            }
         }
 
         // TacticsMove unit = turnTeam.Dequeue();
@@ -114,7 +119,6 @@ public class TurnManager : MonoBehaviour
             turnKey.Enqueue(team);
             InitTeamTurnQueue();
         }
-
     }
 
     public static void AddUnit(TacticsMove unit)
