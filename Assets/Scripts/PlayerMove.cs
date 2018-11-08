@@ -5,7 +5,7 @@ using UnityEngine;
 public class PlayerMove : TacticsMove
 {
 
-    void Reset()
+    public override void Reset()
     {
         // // updated by: emgillis
         // // updated on: 2018-11-08

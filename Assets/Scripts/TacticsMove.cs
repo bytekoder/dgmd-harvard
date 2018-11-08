@@ -64,7 +64,7 @@ public class TacticsMove : MonoBehaviour
 
     public Tile actualTargetTile;
 
-    public void Reset()
+    public virtual void Reset()
     {
 
         // // updated by: emgillis
