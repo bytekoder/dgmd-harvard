@@ -156,10 +156,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3d0927957e78098429584e03220c6bc1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  walkable: 1
   current: 0
   target: 0
   selectable: 0
+  walkable: 1
   adjacencyList: []
   visited: 0
   parent: {fileID: 0}
@@ -264,10 +264,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3d0927957e78098429584e03220c6bc1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  walkable: 1
   current: 0
   target: 0
   selectable: 0
+  walkable: 1
   adjacencyList: []
   visited: 0
   parent: {fileID: 0}
@@ -372,10 +372,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3d0927957e78098429584e03220c6bc1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  walkable: 1
   current: 0
   target: 0
   selectable: 0
+  walkable: 1
   adjacencyList: []
   visited: 0
   parent: {fileID: 0}
@@ -480,10 +480,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3d0927957e78098429584e03220c6bc1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  walkable: 1
   current: 0
   target: 0
   selectable: 0
+  walkable: 1
   adjacencyList: []
   visited: 0
   parent: {fileID: 0}
@@ -663,10 +663,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3d0927957e78098429584e03220c6bc1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  walkable: 1
   current: 0
   target: 0
   selectable: 0
+  walkable: 1
   adjacencyList: []
   visited: 0
   parent: {fileID: 0}
@@ -771,10 +771,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3d0927957e78098429584e03220c6bc1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  walkable: 1
   current: 0
   target: 0
   selectable: 0
+  walkable: 1
   adjacencyList: []
   visited: 0
   parent: {fileID: 0}
@@ -879,10 +879,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3d0927957e78098429584e03220c6bc1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  walkable: 1
   current: 0
   target: 0
   selectable: 0
+  walkable: 1
   adjacencyList: []
   visited: 0
   parent: {fileID: 0}
@@ -1041,10 +1041,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3d0927957e78098429584e03220c6bc1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  walkable: 1
   current: 0
   target: 0
   selectable: 0
+  walkable: 1
   adjacencyList: []
   visited: 0
   parent: {fileID: 0}
@@ -1149,10 +1149,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3d0927957e78098429584e03220c6bc1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  walkable: 1
   current: 0
   target: 0
   selectable: 0
+  walkable: 1
   adjacencyList: []
   visited: 0
   parent: {fileID: 0}
@@ -1203,10 +1203,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3d0927957e78098429584e03220c6bc1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  walkable: 1
   current: 0
   target: 0
   selectable: 0
+  walkable: 1
   adjacencyList: []
   visited: 0
   parent: {fileID: 0}
@@ -1365,10 +1365,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3d0927957e78098429584e03220c6bc1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  walkable: 1
   current: 0
   target: 0
   selectable: 0
+  walkable: 1
   adjacencyList: []
   visited: 0
   parent: {fileID: 0}
@@ -1473,10 +1473,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3d0927957e78098429584e03220c6bc1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  walkable: 1
   current: 0
   target: 0
   selectable: 0
+  walkable: 1
   adjacencyList: []
   visited: 0
   parent: {fileID: 0}
@@ -1527,10 +1527,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3d0927957e78098429584e03220c6bc1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  walkable: 1
   current: 0
   target: 0
   selectable: 0
+  walkable: 1
   adjacencyList: []
   visited: 0
   parent: {fileID: 0}
@@ -1635,10 +1635,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3d0927957e78098429584e03220c6bc1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  walkable: 1
   current: 0
   target: 0
   selectable: 0
+  walkable: 1
   adjacencyList: []
   visited: 0
   parent: {fileID: 0}
@@ -1797,10 +1797,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3d0927957e78098429584e03220c6bc1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  walkable: 1
   current: 0
   target: 0
   selectable: 0
+  walkable: 1
   adjacencyList: []
   visited: 0
   parent: {fileID: 0}
@@ -1926,10 +1926,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3d0927957e78098429584e03220c6bc1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  walkable: 1
   current: 0
   target: 0
   selectable: 0
+  walkable: 1
   adjacencyList: []
   visited: 0
   parent: {fileID: 0}
@@ -2088,10 +2088,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3d0927957e78098429584e03220c6bc1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  walkable: 1
   current: 0
   target: 0
   selectable: 0
+  walkable: 1
   adjacencyList: []
   visited: 0
   parent: {fileID: 0}
@@ -2142,10 +2142,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3d0927957e78098429584e03220c6bc1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  walkable: 1
   current: 0
   target: 0
   selectable: 0
+  walkable: 1
   adjacencyList: []
   visited: 0
   parent: {fileID: 0}
@@ -2250,10 +2250,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3d0927957e78098429584e03220c6bc1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  walkable: 1
   current: 0
   target: 0
   selectable: 0
+  walkable: 1
   adjacencyList: []
   visited: 0
   parent: {fileID: 0}
@@ -2358,10 +2358,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3d0927957e78098429584e03220c6bc1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  walkable: 1
   current: 0
   target: 0
   selectable: 0
+  walkable: 1
   adjacencyList: []
   visited: 0
   parent: {fileID: 0}
@@ -2466,10 +2466,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3d0927957e78098429584e03220c6bc1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  walkable: 1
   current: 0
   target: 0
   selectable: 0
+  walkable: 1
   adjacencyList: []
   visited: 0
   parent: {fileID: 0}
@@ -2574,10 +2574,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3d0927957e78098429584e03220c6bc1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  walkable: 1
   current: 0
   target: 0
   selectable: 0
+  walkable: 1
   adjacencyList: []
   visited: 0
   parent: {fileID: 0}
@@ -2682,10 +2682,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3d0927957e78098429584e03220c6bc1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  walkable: 1
   current: 0
   target: 0
   selectable: 0
+  walkable: 1
   adjacencyList: []
   visited: 0
   parent: {fileID: 0}
@@ -2844,10 +2844,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3d0927957e78098429584e03220c6bc1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  walkable: 1
   current: 0
   target: 0
   selectable: 0
+  walkable: 1
   adjacencyList: []
   visited: 0
   parent: {fileID: 0}
@@ -2952,10 +2952,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3d0927957e78098429584e03220c6bc1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  walkable: 1
   current: 0
   target: 0
   selectable: 0
+  walkable: 1
   adjacencyList: []
   visited: 0
   parent: {fileID: 0}
@@ -3006,10 +3006,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3d0927957e78098429584e03220c6bc1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  walkable: 1
   current: 0
   target: 0
   selectable: 0
+  walkable: 1
   adjacencyList: []
   visited: 0
   parent: {fileID: 0}
@@ -3090,7 +3090,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!114 &105154571
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -3280,10 +3280,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3d0927957e78098429584e03220c6bc1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  walkable: 1
   current: 0
   target: 0
   selectable: 0
+  walkable: 1
   adjacencyList: []
   visited: 0
   parent: {fileID: 0}
@@ -3388,10 +3388,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3d0927957e78098429584e03220c6bc1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  walkable: 1
   current: 0
   target: 0
   selectable: 0
+  walkable: 1
   adjacencyList: []
   visited: 0
   parent: {fileID: 0}
@@ -3496,10 +3496,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3d0927957e78098429584e03220c6bc1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  walkable: 1
   current: 0
   target: 0
   selectable: 0
+  walkable: 1
   adjacencyList: []
   visited: 0
   parent: {fileID: 0}
@@ -3550,10 +3550,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3d0927957e78098429584e03220c6bc1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  walkable: 1
   current: 0
   target: 0
   selectable: 0
+  walkable: 1
   adjacencyList: []
   visited: 0
   parent: {fileID: 0}
@@ -3658,10 +3658,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3d0927957e78098429584e03220c6bc1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  walkable: 1
   current: 0
   target: 0
   selectable: 0
+  walkable: 1
   adjacencyList: []
   visited: 0
   parent: {fileID: 0}
@@ -3820,10 +3820,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3d0927957e78098429584e03220c6bc1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  walkable: 1
   current: 0
   target: 0
   selectable: 0
+  walkable: 1
   adjacencyList: []
   visited: 0
   parent: {fileID: 0}
@@ -3874,10 +3874,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3d0927957e78098429584e03220c6bc1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  walkable: 1
   current: 0
   target: 0
   selectable: 0
+  walkable: 1
   adjacencyList: []
   visited: 0
   parent: {fileID: 0}
@@ -3982,10 +3982,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3d0927957e78098429584e03220c6bc1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  walkable: 1
   current: 0
   target: 0
   selectable: 0
+  walkable: 1
   adjacencyList: []
   visited: 0
   parent: {fileID: 0}
@@ -4090,10 +4090,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3d0927957e78098429584e03220c6bc1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  walkable: 1
   current: 0
   target: 0
   selectable: 0
+  walkable: 1
   adjacencyList: []
   visited: 0
   parent: {fileID: 0}
@@ -4252,10 +4252,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3d0927957e78098429584e03220c6bc1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  walkable: 1
   current: 0
   target: 0
   selectable: 0
+  walkable: 1
   adjacencyList: []
   visited: 0
   parent: {fileID: 0}
@@ -4360,10 +4360,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3d0927957e78098429584e03220c6bc1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  walkable: 1
   current: 0
   target: 0
   selectable: 0
+  walkable: 1
   adjacencyList: []
   visited: 0
   parent: {fileID: 0}
@@ -4414,10 +4414,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3d0927957e78098429584e03220c6bc1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  walkable: 1
   current: 0
   target: 0
   selectable: 0
+  walkable: 1
   adjacencyList: []
   visited: 0
   parent: {fileID: 0}
@@ -4576,10 +4576,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3d0927957e78098429584e03220c6bc1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  walkable: 1
   current: 0
   target: 0
   selectable: 0
+  walkable: 1
   adjacencyList: []
   visited: 0
   parent: {fileID: 0}
@@ -4630,10 +4630,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3d0927957e78098429584e03220c6bc1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  walkable: 1
   current: 0
   target: 0
   selectable: 0
+  walkable: 1
   adjacencyList: []
   visited: 0
   parent: {fileID: 0}
@@ -4792,10 +4792,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3d0927957e78098429584e03220c6bc1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  walkable: 1
   current: 0
   target: 0
   selectable: 0
+  walkable: 1
   adjacencyList: []
   visited: 0
   parent: {fileID: 0}
@@ -4939,10 +4939,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3d0927957e78098429584e03220c6bc1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  walkable: 1
   current: 0
   target: 0
   selectable: 0
+  walkable: 1
   adjacencyList: []
   visited: 0
   parent: {fileID: 0}
@@ -5096,10 +5096,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3d0927957e78098429584e03220c6bc1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  walkable: 1
   current: 0
   target: 0
   selectable: 0
+  walkable: 1
   adjacencyList: []
   visited: 0
   parent: {fileID: 0}
@@ -5258,10 +5258,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3d0927957e78098429584e03220c6bc1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  walkable: 1
   current: 0
   target: 0
   selectable: 0
+  walkable: 1
   adjacencyList: []
   visited: 0
   parent: {fileID: 0}
@@ -5312,10 +5312,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3d0927957e78098429584e03220c6bc1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  walkable: 1
   current: 0
   target: 0
   selectable: 0
+  walkable: 1
   adjacencyList: []
   visited: 0
   parent: {fileID: 0}
@@ -5420,10 +5420,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3d0927957e78098429584e03220c6bc1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  walkable: 1
   current: 0
   target: 0
   selectable: 0
+  walkable: 1
   adjacencyList: []
   visited: 0
   parent: {fileID: 0}
@@ -5528,10 +5528,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3d0927957e78098429584e03220c6bc1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  walkable: 1
   current: 0
   target: 0
   selectable: 0
+  walkable: 1
   adjacencyList: []
   visited: 0
   parent: {fileID: 0}
@@ -5739,10 +5739,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3d0927957e78098429584e03220c6bc1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  walkable: 1
   current: 0
   target: 0
   selectable: 0
+  walkable: 1
   adjacencyList: []
   visited: 0
   parent: {fileID: 0}
@@ -5793,10 +5793,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3d0927957e78098429584e03220c6bc1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  walkable: 1
   current: 0
   target: 0
   selectable: 0
+  walkable: 1
   adjacencyList: []
   visited: 0
   parent: {fileID: 0}
@@ -5901,10 +5901,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3d0927957e78098429584e03220c6bc1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  walkable: 1
   current: 0
   target: 0
   selectable: 0
+  walkable: 1
   adjacencyList: []
   visited: 0
   parent: {fileID: 0}
@@ -6063,10 +6063,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3d0927957e78098429584e03220c6bc1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  walkable: 1
   current: 0
   target: 0
   selectable: 0
+  walkable: 1
   adjacencyList: []
   visited: 0
   parent: {fileID: 0}
@@ -6117,10 +6117,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3d0927957e78098429584e03220c6bc1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  walkable: 1
   current: 0
   target: 0
   selectable: 0
+  walkable: 1
   adjacencyList: []
   visited: 0
   parent: {fileID: 0}
@@ -6225,10 +6225,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3d0927957e78098429584e03220c6bc1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  walkable: 1
   current: 0
   target: 0
   selectable: 0
+  walkable: 1
   adjacencyList: []
   visited: 0
   parent: {fileID: 0}
@@ -6436,10 +6436,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3d0927957e78098429584e03220c6bc1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  walkable: 1
   current: 0
   target: 0
   selectable: 0
+  walkable: 1
   adjacencyList: []
   visited: 0
   parent: {fileID: 0}
@@ -6544,10 +6544,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3d0927957e78098429584e03220c6bc1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  walkable: 1
   current: 0
   target: 0
   selectable: 0
+  walkable: 1
   adjacencyList: []
   visited: 0
   parent: {fileID: 0}
@@ -6598,10 +6598,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3d0927957e78098429584e03220c6bc1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  walkable: 1
   current: 0
   target: 0
   selectable: 0
+  walkable: 1
   adjacencyList: []
   visited: 0
   parent: {fileID: 0}
@@ -6706,10 +6706,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3d0927957e78098429584e03220c6bc1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  walkable: 1
   current: 0
   target: 0
   selectable: 0
+  walkable: 1
   adjacencyList: []
   visited: 0
   parent: {fileID: 0}
@@ -6868,10 +6868,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3d0927957e78098429584e03220c6bc1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  walkable: 1
   current: 0
   target: 0
   selectable: 0
+  walkable: 1
   adjacencyList: []
   visited: 0
   parent: {fileID: 0}
@@ -6922,10 +6922,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3d0927957e78098429584e03220c6bc1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  walkable: 1
   current: 0
   target: 0
   selectable: 0
+  walkable: 1
   adjacencyList: []
   visited: 0
   parent: {fileID: 0}
@@ -7030,10 +7030,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3d0927957e78098429584e03220c6bc1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  walkable: 1
   current: 0
   target: 0
   selectable: 0
+  walkable: 1
   adjacencyList: []
   visited: 0
   parent: {fileID: 0}
@@ -7192,10 +7192,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3d0927957e78098429584e03220c6bc1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  walkable: 1
   current: 0
   target: 0
   selectable: 0
+  walkable: 1
   adjacencyList: []
   visited: 0
   parent: {fileID: 0}
@@ -7295,10 +7295,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3d0927957e78098429584e03220c6bc1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  walkable: 1
   current: 0
   target: 0
   selectable: 0
+  walkable: 1
   adjacencyList: []
   visited: 0
   parent: {fileID: 0}
@@ -7452,10 +7452,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3d0927957e78098429584e03220c6bc1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  walkable: 1
   current: 0
   target: 0
   selectable: 0
+  walkable: 1
   adjacencyList: []
   visited: 0
   parent: {fileID: 0}
@@ -7614,10 +7614,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3d0927957e78098429584e03220c6bc1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  walkable: 1
   current: 0
   target: 0
   selectable: 0
+  walkable: 1
   adjacencyList: []
   visited: 0
   parent: {fileID: 0}
@@ -7668,10 +7668,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3d0927957e78098429584e03220c6bc1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  walkable: 1
   current: 0
   target: 0
   selectable: 0
+  walkable: 1
   adjacencyList: []
   visited: 0
   parent: {fileID: 0}
@@ -7776,10 +7776,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3d0927957e78098429584e03220c6bc1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  walkable: 1
   current: 0
   target: 0
   selectable: 0
+  walkable: 1
   adjacencyList: []
   visited: 0
   parent: {fileID: 0}
@@ -7884,10 +7884,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3d0927957e78098429584e03220c6bc1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  walkable: 1
   current: 0
   target: 0
   selectable: 0
+  walkable: 1
   adjacencyList: []
   visited: 0
   parent: {fileID: 0}
@@ -7992,10 +7992,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3d0927957e78098429584e03220c6bc1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  walkable: 1
   current: 0
   target: 0
   selectable: 0
+  walkable: 1
   adjacencyList: []
   visited: 0
   parent: {fileID: 0}
@@ -8100,10 +8100,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3d0927957e78098429584e03220c6bc1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  walkable: 1
   current: 0
   target: 0
   selectable: 0
+  walkable: 1
   adjacencyList: []
   visited: 0
   parent: {fileID: 0}
@@ -8208,10 +8208,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3d0927957e78098429584e03220c6bc1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  walkable: 1
   current: 0
   target: 0
   selectable: 0
+  walkable: 1
   adjacencyList: []
   visited: 0
   parent: {fileID: 0}
@@ -8316,10 +8316,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3d0927957e78098429584e03220c6bc1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  walkable: 1
   current: 0
   target: 0
   selectable: 0
+  walkable: 1
   adjacencyList: []
   visited: 0
   parent: {fileID: 0}
@@ -8473,10 +8473,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3d0927957e78098429584e03220c6bc1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  walkable: 1
   current: 0
   target: 0
   selectable: 0
+  walkable: 1
   adjacencyList: []
   visited: 0
   parent: {fileID: 0}
@@ -8581,10 +8581,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3d0927957e78098429584e03220c6bc1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  walkable: 1
   current: 0
   target: 0
   selectable: 0
+  walkable: 1
   adjacencyList: []
   visited: 0
   parent: {fileID: 0}
@@ -8743,10 +8743,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3d0927957e78098429584e03220c6bc1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  walkable: 1
   current: 0
   target: 0
   selectable: 0
+  walkable: 1
   adjacencyList: []
   visited: 0
   parent: {fileID: 0}
@@ -8797,10 +8797,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3d0927957e78098429584e03220c6bc1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  walkable: 1
   current: 0
   target: 0
   selectable: 0
+  walkable: 1
   adjacencyList: []
   visited: 0
   parent: {fileID: 0}
@@ -8905,10 +8905,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3d0927957e78098429584e03220c6bc1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  walkable: 1
   current: 0
   target: 0
   selectable: 0
+  walkable: 1
   adjacencyList: []
   visited: 0
   parent: {fileID: 0}
@@ -9067,10 +9067,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3d0927957e78098429584e03220c6bc1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  walkable: 1
   current: 0
   target: 0
   selectable: 0
+  walkable: 1
   adjacencyList: []
   visited: 0
   parent: {fileID: 0}
@@ -9175,10 +9175,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3d0927957e78098429584e03220c6bc1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  walkable: 1
   current: 0
   target: 0
   selectable: 0
+  walkable: 1
   adjacencyList: []
   visited: 0
   parent: {fileID: 0}
@@ -9229,10 +9229,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3d0927957e78098429584e03220c6bc1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  walkable: 1
   current: 0
   target: 0
   selectable: 0
+  walkable: 1
   adjacencyList: []
   visited: 0
   parent: {fileID: 0}
@@ -9391,10 +9391,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3d0927957e78098429584e03220c6bc1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  walkable: 1
   current: 0
   target: 0
   selectable: 0
+  walkable: 1
   adjacencyList: []
   visited: 0
   parent: {fileID: 0}
@@ -9445,10 +9445,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3d0927957e78098429584e03220c6bc1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  walkable: 1
   current: 0
   target: 0
   selectable: 0
+  walkable: 1
   adjacencyList: []
   visited: 0
   parent: {fileID: 0}
@@ -9553,10 +9553,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3d0927957e78098429584e03220c6bc1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  walkable: 1
   current: 0
   target: 0
   selectable: 0
+  walkable: 1
   adjacencyList: []
   visited: 0
   parent: {fileID: 0}
@@ -9715,10 +9715,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3d0927957e78098429584e03220c6bc1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  walkable: 1
   current: 0
   target: 0
   selectable: 0
+  walkable: 1
   adjacencyList: []
   visited: 0
   parent: {fileID: 0}
@@ -9769,10 +9769,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3d0927957e78098429584e03220c6bc1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  walkable: 1
   current: 0
   target: 0
   selectable: 0
+  walkable: 1
   adjacencyList: []
   visited: 0
   parent: {fileID: 0}
@@ -9877,10 +9877,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3d0927957e78098429584e03220c6bc1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  walkable: 1
   current: 0
   target: 0
   selectable: 0
+  walkable: 1
   adjacencyList: []
   visited: 0
   parent: {fileID: 0}
@@ -9985,10 +9985,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3d0927957e78098429584e03220c6bc1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  walkable: 1
   current: 0
   target: 0
   selectable: 0
+  walkable: 1
   adjacencyList: []
   visited: 0
   parent: {fileID: 0}
@@ -10093,10 +10093,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3d0927957e78098429584e03220c6bc1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  walkable: 1
   current: 0
   target: 0
   selectable: 0
+  walkable: 1
   adjacencyList: []
   visited: 0
   parent: {fileID: 0}
@@ -10201,10 +10201,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3d0927957e78098429584e03220c6bc1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  walkable: 1
   current: 0
   target: 0
   selectable: 0
+  walkable: 1
   adjacencyList: []
   visited: 0
   parent: {fileID: 0}
@@ -10309,10 +10309,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3d0927957e78098429584e03220c6bc1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  walkable: 1
   current: 0
   target: 0
   selectable: 0
+  walkable: 1
   adjacencyList: []
   visited: 0
   parent: {fileID: 0}
@@ -10417,10 +10417,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3d0927957e78098429584e03220c6bc1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  walkable: 1
   current: 0
   target: 0
   selectable: 0
+  walkable: 1
   adjacencyList: []
   visited: 0
   parent: {fileID: 0}
@@ -10525,10 +10525,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3d0927957e78098429584e03220c6bc1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  walkable: 1
   current: 0
   target: 0
   selectable: 0
+  walkable: 1
   adjacencyList: []
   visited: 0
   parent: {fileID: 0}
@@ -10633,10 +10633,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3d0927957e78098429584e03220c6bc1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  walkable: 1
   current: 0
   target: 0
   selectable: 0
+  walkable: 1
   adjacencyList: []
   visited: 0
   parent: {fileID: 0}
@@ -10795,10 +10795,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3d0927957e78098429584e03220c6bc1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  walkable: 1
   current: 0
   target: 0
   selectable: 0
+  walkable: 1
   adjacencyList: []
   visited: 0
   parent: {fileID: 0}
@@ -10903,10 +10903,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3d0927957e78098429584e03220c6bc1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  walkable: 1
   current: 0
   target: 0
   selectable: 0
+  walkable: 1
   adjacencyList: []
   visited: 0
   parent: {fileID: 0}
@@ -11011,10 +11011,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3d0927957e78098429584e03220c6bc1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  walkable: 1
   current: 0
   target: 0
   selectable: 0
+  walkable: 1
   adjacencyList: []
   visited: 0
   parent: {fileID: 0}
@@ -11065,10 +11065,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3d0927957e78098429584e03220c6bc1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  walkable: 1
   current: 0
   target: 0
   selectable: 0
+  walkable: 1
   adjacencyList: []
   visited: 0
   parent: {fileID: 0}
@@ -11227,10 +11227,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3d0927957e78098429584e03220c6bc1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  walkable: 1
   current: 0
   target: 0
   selectable: 0
+  walkable: 1
   adjacencyList: []
   visited: 0
   parent: {fileID: 0}
@@ -11330,10 +11330,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3d0927957e78098429584e03220c6bc1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  walkable: 1
   current: 0
   target: 0
   selectable: 0
+  walkable: 1
   adjacencyList: []
   visited: 0
   parent: {fileID: 0}
@@ -11438,10 +11438,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3d0927957e78098429584e03220c6bc1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  walkable: 1
   current: 0
   target: 0
   selectable: 0
+  walkable: 1
   adjacencyList: []
   visited: 0
   parent: {fileID: 0}
@@ -11600,10 +11600,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3d0927957e78098429584e03220c6bc1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  walkable: 1
   current: 0
   target: 0
   selectable: 0
+  walkable: 1
   adjacencyList: []
   visited: 0
   parent: {fileID: 0}
@@ -11654,10 +11654,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3d0927957e78098429584e03220c6bc1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  walkable: 1
   current: 0
   target: 0
   selectable: 0
+  walkable: 1
   adjacencyList: []
   visited: 0
   parent: {fileID: 0}
@@ -11811,10 +11811,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3d0927957e78098429584e03220c6bc1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  walkable: 1
   current: 0
   target: 0
   selectable: 0
+  walkable: 1
   adjacencyList: []
   visited: 0
   parent: {fileID: 0}
@@ -11919,10 +11919,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3d0927957e78098429584e03220c6bc1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  walkable: 1
   current: 0
   target: 0
   selectable: 0
+  walkable: 1
   adjacencyList: []
   visited: 0
   parent: {fileID: 0}
@@ -12027,10 +12027,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3d0927957e78098429584e03220c6bc1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  walkable: 1
   current: 0
   target: 0
   selectable: 0
+  walkable: 1
   adjacencyList: []
   visited: 0
   parent: {fileID: 0}
@@ -12135,10 +12135,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3d0927957e78098429584e03220c6bc1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  walkable: 1
   current: 0
   target: 0
   selectable: 0
+  walkable: 1
   adjacencyList: []
   visited: 0
   parent: {fileID: 0}
@@ -12297,10 +12297,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3d0927957e78098429584e03220c6bc1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  walkable: 1
   current: 0
   target: 0
   selectable: 0
+  walkable: 1
   adjacencyList: []
   visited: 0
   parent: {fileID: 0}
@@ -12405,10 +12405,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3d0927957e78098429584e03220c6bc1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  walkable: 1
   current: 0
   target: 0
   selectable: 0
+  walkable: 1
   adjacencyList: []
   visited: 0
   parent: {fileID: 0}
@@ -12459,10 +12459,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3d0927957e78098429584e03220c6bc1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  walkable: 1
   current: 0
   target: 0
   selectable: 0
+  walkable: 1
   adjacencyList: []
   visited: 0
   parent: {fileID: 0}
@@ -12621,10 +12621,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3d0927957e78098429584e03220c6bc1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  walkable: 1
   current: 0
   target: 0
   selectable: 0
+  walkable: 1
   adjacencyList: []
   visited: 0
   parent: {fileID: 0}
@@ -12729,10 +12729,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3d0927957e78098429584e03220c6bc1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  walkable: 1
   current: 0
   target: 0
   selectable: 0
+  walkable: 1
   adjacencyList: []
   visited: 0
   parent: {fileID: 0}
@@ -12783,10 +12783,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3d0927957e78098429584e03220c6bc1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  walkable: 1
   current: 0
   target: 0
   selectable: 0
+  walkable: 1
   adjacencyList: []
   visited: 0
   parent: {fileID: 0}
@@ -12945,10 +12945,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3d0927957e78098429584e03220c6bc1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  walkable: 1
   current: 0
   target: 0
   selectable: 0
+  walkable: 1
   adjacencyList: []
   visited: 0
   parent: {fileID: 0}
@@ -12999,10 +12999,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3d0927957e78098429584e03220c6bc1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  walkable: 1
   current: 0
   target: 0
   selectable: 0
+  walkable: 1
   adjacencyList: []
   visited: 0
   parent: {fileID: 0}
@@ -13107,10 +13107,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3d0927957e78098429584e03220c6bc1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  walkable: 1
   current: 0
   target: 0
   selectable: 0
+  walkable: 1
   adjacencyList: []
   visited: 0
   parent: {fileID: 0}
@@ -13191,7 +13191,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!4 &496318657
 Transform:
   m_ObjectHideFlags: 0
@@ -13327,10 +13327,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3d0927957e78098429584e03220c6bc1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  walkable: 1
   current: 0
   target: 0
   selectable: 0
+  walkable: 1
   adjacencyList: []
   visited: 0
   parent: {fileID: 0}
@@ -13435,10 +13435,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3d0927957e78098429584e03220c6bc1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  walkable: 1
   current: 0
   target: 0
   selectable: 0
+  walkable: 1
   adjacencyList: []
   visited: 0
   parent: {fileID: 0}
@@ -13597,10 +13597,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3d0927957e78098429584e03220c6bc1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  walkable: 1
   current: 0
   target: 0
   selectable: 0
+  walkable: 1
   adjacencyList: []
   visited: 0
   parent: {fileID: 0}
@@ -13651,10 +13651,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3d0927957e78098429584e03220c6bc1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  walkable: 1
   current: 0
   target: 0
   selectable: 0
+  walkable: 1
   adjacencyList: []
   visited: 0
   parent: {fileID: 0}
@@ -13759,10 +13759,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3d0927957e78098429584e03220c6bc1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  walkable: 1
   current: 0
   target: 0
   selectable: 0
+  walkable: 1
   adjacencyList: []
   visited: 0
   parent: {fileID: 0}
@@ -13921,10 +13921,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3d0927957e78098429584e03220c6bc1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  walkable: 1
   current: 0
   target: 0
   selectable: 0
+  walkable: 1
   adjacencyList: []
   visited: 0
   parent: {fileID: 0}
@@ -13975,10 +13975,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3d0927957e78098429584e03220c6bc1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  walkable: 1
   current: 0
   target: 0
   selectable: 0
+  walkable: 1
   adjacencyList: []
   visited: 0
   parent: {fileID: 0}
@@ -14137,10 +14137,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3d0927957e78098429584e03220c6bc1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  walkable: 1
   current: 0
   target: 0
   selectable: 0
+  walkable: 1
   adjacencyList: []
   visited: 0
   parent: {fileID: 0}
@@ -14245,10 +14245,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3d0927957e78098429584e03220c6bc1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  walkable: 1
   current: 0
   target: 0
   selectable: 0
+  walkable: 1
   adjacencyList: []
   visited: 0
   parent: {fileID: 0}
@@ -14299,10 +14299,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3d0927957e78098429584e03220c6bc1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  walkable: 1
   current: 0
   target: 0
   selectable: 0
+  walkable: 1
   adjacencyList: []
   visited: 0
   parent: {fileID: 0}
@@ -14461,10 +14461,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3d0927957e78098429584e03220c6bc1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  walkable: 1
   current: 0
   target: 0
   selectable: 0
+  walkable: 1
   adjacencyList: []
   visited: 0
   parent: {fileID: 0}
@@ -14515,10 +14515,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3d0927957e78098429584e03220c6bc1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  walkable: 1
   current: 0
   target: 0
   selectable: 0
+  walkable: 1
   adjacencyList: []
   visited: 0
   parent: {fileID: 0}
@@ -14623,10 +14623,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3d0927957e78098429584e03220c6bc1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  walkable: 1
   current: 0
   target: 0
   selectable: 0
+  walkable: 1
   adjacencyList: []
   visited: 0
   parent: {fileID: 0}
@@ -14731,10 +14731,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3d0927957e78098429584e03220c6bc1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  walkable: 1
   current: 0
   target: 0
   selectable: 0
+  walkable: 1
   adjacencyList: []
   visited: 0
   parent: {fileID: 0}
@@ -14893,10 +14893,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3d0927957e78098429584e03220c6bc1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  walkable: 1
   current: 0
   target: 0
   selectable: 0
+  walkable: 1
   adjacencyList: []
   visited: 0
   parent: {fileID: 0}
@@ -14947,10 +14947,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3d0927957e78098429584e03220c6bc1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  walkable: 1
   current: 0
   target: 0
   selectable: 0
+  walkable: 1
   adjacencyList: []
   visited: 0
   parent: {fileID: 0}
@@ -15109,10 +15109,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3d0927957e78098429584e03220c6bc1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  walkable: 1
   current: 0
   target: 0
   selectable: 0
+  walkable: 1
   adjacencyList: []
   visited: 0
   parent: {fileID: 0}
@@ -15217,10 +15217,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3d0927957e78098429584e03220c6bc1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  walkable: 1
   current: 0
   target: 0
   selectable: 0
+  walkable: 1
   adjacencyList: []
   visited: 0
   parent: {fileID: 0}
@@ -15271,10 +15271,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3d0927957e78098429584e03220c6bc1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  walkable: 1
   current: 0
   target: 0
   selectable: 0
+  walkable: 1
   adjacencyList: []
   visited: 0
   parent: {fileID: 0}
@@ -15379,10 +15379,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3d0927957e78098429584e03220c6bc1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  walkable: 1
   current: 0
   target: 0
   selectable: 0
+  walkable: 1
   adjacencyList: []
   visited: 0
   parent: {fileID: 0}
@@ -15541,10 +15541,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3d0927957e78098429584e03220c6bc1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  walkable: 1
   current: 0
   target: 0
   selectable: 0
+  walkable: 1
   adjacencyList: []
   visited: 0
   parent: {fileID: 0}
@@ -15649,10 +15649,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3d0927957e78098429584e03220c6bc1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  walkable: 1
   current: 0
   target: 0
   selectable: 0
+  walkable: 1
   adjacencyList: []
   visited: 0
   parent: {fileID: 0}
@@ -15703,10 +15703,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3d0927957e78098429584e03220c6bc1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  walkable: 1
   current: 0
   target: 0
   selectable: 0
+  walkable: 1
   adjacencyList: []
   visited: 0
   parent: {fileID: 0}
@@ -15811,10 +15811,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3d0927957e78098429584e03220c6bc1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  walkable: 1
   current: 0
   target: 0
   selectable: 0
+  walkable: 1
   adjacencyList: []
   visited: 0
   parent: {fileID: 0}
@@ -15919,10 +15919,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3d0927957e78098429584e03220c6bc1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  walkable: 1
   current: 0
   target: 0
   selectable: 0
+  walkable: 1
   adjacencyList: []
   visited: 0
   parent: {fileID: 0}
@@ -16130,10 +16130,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3d0927957e78098429584e03220c6bc1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  walkable: 1
   current: 0
   target: 0
   selectable: 0
+  walkable: 1
   adjacencyList: []
   visited: 0
   parent: {fileID: 0}
@@ -16238,10 +16238,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3d0927957e78098429584e03220c6bc1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  walkable: 1
   current: 0
   target: 0
   selectable: 0
+  walkable: 1
   adjacencyList: []
   visited: 0
   parent: {fileID: 0}
@@ -16292,10 +16292,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3d0927957e78098429584e03220c6bc1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  walkable: 1
   current: 0
   target: 0
   selectable: 0
+  walkable: 1
   adjacencyList: []
   visited: 0
   parent: {fileID: 0}
@@ -16400,10 +16400,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3d0927957e78098429584e03220c6bc1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  walkable: 1
   current: 0
   target: 0
   selectable: 0
+  walkable: 1
   adjacencyList: []
   visited: 0
   parent: {fileID: 0}
@@ -16508,10 +16508,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3d0927957e78098429584e03220c6bc1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  walkable: 1
   current: 0
   target: 0
   selectable: 0
+  walkable: 1
   adjacencyList: []
   visited: 0
   parent: {fileID: 0}
@@ -16616,10 +16616,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3d0927957e78098429584e03220c6bc1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  walkable: 1
   current: 0
   target: 0
   selectable: 0
+  walkable: 1
   adjacencyList: []
   visited: 0
   parent: {fileID: 0}
@@ -16773,10 +16773,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3d0927957e78098429584e03220c6bc1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  walkable: 1
   current: 0
   target: 0
   selectable: 0
+  walkable: 1
   adjacencyList: []
   visited: 0
   parent: {fileID: 0}
@@ -16881,10 +16881,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3d0927957e78098429584e03220c6bc1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  walkable: 1
   current: 0
   target: 0
   selectable: 0
+  walkable: 1
   adjacencyList: []
   visited: 0
   parent: {fileID: 0}
@@ -16989,10 +16989,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3d0927957e78098429584e03220c6bc1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  walkable: 1
   current: 0
   target: 0
   selectable: 0
+  walkable: 1
   adjacencyList: []
   visited: 0
   parent: {fileID: 0}
@@ -17097,10 +17097,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3d0927957e78098429584e03220c6bc1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  walkable: 1
   current: 0
   target: 0
   selectable: 0
+  walkable: 1
   adjacencyList: []
   visited: 0
   parent: {fileID: 0}
@@ -17259,10 +17259,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3d0927957e78098429584e03220c6bc1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  walkable: 1
   current: 0
   target: 0
   selectable: 0
+  walkable: 1
   adjacencyList: []
   visited: 0
   parent: {fileID: 0}
@@ -17313,10 +17313,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3d0927957e78098429584e03220c6bc1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  walkable: 1
   current: 0
   target: 0
   selectable: 0
+  walkable: 1
   adjacencyList: []
   visited: 0
   parent: {fileID: 0}
@@ -17421,10 +17421,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3d0927957e78098429584e03220c6bc1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  walkable: 1
   current: 0
   target: 0
   selectable: 0
+  walkable: 1
   adjacencyList: []
   visited: 0
   parent: {fileID: 0}
@@ -17583,10 +17583,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3d0927957e78098429584e03220c6bc1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  walkable: 1
   current: 0
   target: 0
   selectable: 0
+  walkable: 1
   adjacencyList: []
   visited: 0
   parent: {fileID: 0}
@@ -17691,10 +17691,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3d0927957e78098429584e03220c6bc1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  walkable: 1
   current: 0
   target: 0
   selectable: 0
+  walkable: 1
   adjacencyList: []
   visited: 0
   parent: {fileID: 0}
@@ -17745,10 +17745,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3d0927957e78098429584e03220c6bc1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  walkable: 1
   current: 0
   target: 0
   selectable: 0
+  walkable: 1
   adjacencyList: []
   visited: 0
   parent: {fileID: 0}
@@ -17853,10 +17853,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3d0927957e78098429584e03220c6bc1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  walkable: 1
   current: 0
   target: 0
   selectable: 0
+  walkable: 1
   adjacencyList: []
   visited: 0
   parent: {fileID: 0}
@@ -17961,10 +17961,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3d0927957e78098429584e03220c6bc1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  walkable: 1
   current: 0
   target: 0
   selectable: 0
+  walkable: 1
   adjacencyList: []
   visited: 0
   parent: {fileID: 0}
@@ -18069,10 +18069,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3d0927957e78098429584e03220c6bc1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  walkable: 1
   current: 0
   target: 0
   selectable: 0
+  walkable: 1
   adjacencyList: []
   visited: 0
   parent: {fileID: 0}
@@ -18177,10 +18177,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3d0927957e78098429584e03220c6bc1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  walkable: 1
   current: 0
   target: 0
   selectable: 0
+  walkable: 1
   adjacencyList: []
   visited: 0
   parent: {fileID: 0}
@@ -18285,10 +18285,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3d0927957e78098429584e03220c6bc1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  walkable: 1
   current: 0
   target: 0
   selectable: 0
+  walkable: 1
   adjacencyList: []
   visited: 0
   parent: {fileID: 0}
@@ -18393,10 +18393,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3d0927957e78098429584e03220c6bc1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  walkable: 1
   current: 0
   target: 0
   selectable: 0
+  walkable: 1
   adjacencyList: []
   visited: 0
   parent: {fileID: 0}
@@ -18555,10 +18555,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3d0927957e78098429584e03220c6bc1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  walkable: 1
   current: 0
   target: 0
   selectable: 0
+  walkable: 1
   adjacencyList: []
   visited: 0
   parent: {fileID: 0}
@@ -18609,10 +18609,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3d0927957e78098429584e03220c6bc1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  walkable: 1
   current: 0
   target: 0
   selectable: 0
+  walkable: 1
   adjacencyList: []
   visited: 0
   parent: {fileID: 0}
@@ -18717,10 +18717,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3d0927957e78098429584e03220c6bc1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  walkable: 1
   current: 0
   target: 0
   selectable: 0
+  walkable: 1
   adjacencyList: []
   visited: 0
   parent: {fileID: 0}
@@ -18879,10 +18879,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3d0927957e78098429584e03220c6bc1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  walkable: 1
   current: 0
   target: 0
   selectable: 0
+  walkable: 1
   adjacencyList: []
   visited: 0
   parent: {fileID: 0}
@@ -18987,10 +18987,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3d0927957e78098429584e03220c6bc1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  walkable: 1
   current: 0
   target: 0
   selectable: 0
+  walkable: 1
   adjacencyList: []
   visited: 0
   parent: {fileID: 0}
@@ -19041,10 +19041,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3d0927957e78098429584e03220c6bc1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  walkable: 1
   current: 0
   target: 0
   selectable: 0
+  walkable: 1
   adjacencyList: []
   visited: 0
   parent: {fileID: 0}
@@ -19149,10 +19149,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3d0927957e78098429584e03220c6bc1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  walkable: 1
   current: 0
   target: 0
   selectable: 0
+  walkable: 1
   adjacencyList: []
   visited: 0
   parent: {fileID: 0}
@@ -19257,10 +19257,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3d0927957e78098429584e03220c6bc1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  walkable: 1
   current: 0
   target: 0
   selectable: 0
+  walkable: 1
   adjacencyList: []
   visited: 0
   parent: {fileID: 0}
@@ -19365,10 +19365,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3d0927957e78098429584e03220c6bc1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  walkable: 1
   current: 0
   target: 0
   selectable: 0
+  walkable: 1
   adjacencyList: []
   visited: 0
   parent: {fileID: 0}
@@ -19473,10 +19473,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3d0927957e78098429584e03220c6bc1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  walkable: 1
   current: 0
   target: 0
   selectable: 0
+  walkable: 1
   adjacencyList: []
   visited: 0
   parent: {fileID: 0}
@@ -19635,10 +19635,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3d0927957e78098429584e03220c6bc1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  walkable: 1
   current: 0
   target: 0
   selectable: 0
+  walkable: 1
   adjacencyList: []
   visited: 0
   parent: {fileID: 0}
@@ -19665,7 +19665,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!114 &831041566
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -19855,10 +19855,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3d0927957e78098429584e03220c6bc1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  walkable: 1
   current: 0
   target: 0
   selectable: 0
+  walkable: 1
   adjacencyList: []
   visited: 0
   parent: {fileID: 0}
@@ -19963,10 +19963,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3d0927957e78098429584e03220c6bc1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  walkable: 1
   current: 0
   target: 0
   selectable: 0
+  walkable: 1
   adjacencyList: []
   visited: 0
   parent: {fileID: 0}
@@ -20017,10 +20017,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3d0927957e78098429584e03220c6bc1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  walkable: 1
   current: 0
   target: 0
   selectable: 0
+  walkable: 1
   adjacencyList: []
   visited: 0
   parent: {fileID: 0}
@@ -20125,10 +20125,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3d0927957e78098429584e03220c6bc1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  walkable: 1
   current: 0
   target: 0
   selectable: 0
+  walkable: 1
   adjacencyList: []
   visited: 0
   parent: {fileID: 0}
@@ -20233,10 +20233,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3d0927957e78098429584e03220c6bc1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  walkable: 1
   current: 0
   target: 0
   selectable: 0
+  walkable: 1
   adjacencyList: []
   visited: 0
   parent: {fileID: 0}
@@ -20341,10 +20341,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3d0927957e78098429584e03220c6bc1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  walkable: 1
   current: 0
   target: 0
   selectable: 0
+  walkable: 1
   adjacencyList: []
   visited: 0
   parent: {fileID: 0}
@@ -20449,10 +20449,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3d0927957e78098429584e03220c6bc1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  walkable: 1
   current: 0
   target: 0
   selectable: 0
+  walkable: 1
   adjacencyList: []
   visited: 0
   parent: {fileID: 0}
@@ -20557,10 +20557,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3d0927957e78098429584e03220c6bc1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  walkable: 1
   current: 0
   target: 0
   selectable: 0
+  walkable: 1
   adjacencyList: []
   visited: 0
   parent: {fileID: 0}
@@ -20719,10 +20719,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3d0927957e78098429584e03220c6bc1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  walkable: 1
   current: 0
   target: 0
   selectable: 0
+  walkable: 1
   adjacencyList: []
   visited: 0
   parent: {fileID: 0}
@@ -20876,10 +20876,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3d0927957e78098429584e03220c6bc1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  walkable: 1
   current: 0
   target: 0
   selectable: 0
+  walkable: 1
   adjacencyList: []
   visited: 0
   parent: {fileID: 0}
@@ -20984,10 +20984,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3d0927957e78098429584e03220c6bc1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  walkable: 1
   current: 0
   target: 0
   selectable: 0
+  walkable: 1
   adjacencyList: []
   visited: 0
   parent: {fileID: 0}
@@ -21038,10 +21038,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3d0927957e78098429584e03220c6bc1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  walkable: 1
   current: 0
   target: 0
   selectable: 0
+  walkable: 1
   adjacencyList: []
   visited: 0
   parent: {fileID: 0}
@@ -21146,10 +21146,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3d0927957e78098429584e03220c6bc1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  walkable: 1
   current: 0
   target: 0
   selectable: 0
+  walkable: 1
   adjacencyList: []
   visited: 0
   parent: {fileID: 0}
@@ -21254,10 +21254,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3d0927957e78098429584e03220c6bc1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  walkable: 1
   current: 0
   target: 0
   selectable: 0
+  walkable: 1
   adjacencyList: []
   visited: 0
   parent: {fileID: 0}
@@ -21416,10 +21416,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3d0927957e78098429584e03220c6bc1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  walkable: 1
   current: 0
   target: 0
   selectable: 0
+  walkable: 1
   adjacencyList: []
   visited: 0
   parent: {fileID: 0}
@@ -21470,10 +21470,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3d0927957e78098429584e03220c6bc1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  walkable: 1
   current: 0
   target: 0
   selectable: 0
+  walkable: 1
   adjacencyList: []
   visited: 0
   parent: {fileID: 0}
@@ -21578,10 +21578,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3d0927957e78098429584e03220c6bc1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  walkable: 1
   current: 0
   target: 0
   selectable: 0
+  walkable: 1
   adjacencyList: []
   visited: 0
   parent: {fileID: 0}
@@ -21740,10 +21740,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3d0927957e78098429584e03220c6bc1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  walkable: 1
   current: 0
   target: 0
   selectable: 0
+  walkable: 1
   adjacencyList: []
   visited: 0
   parent: {fileID: 0}
@@ -21848,10 +21848,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3d0927957e78098429584e03220c6bc1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  walkable: 1
   current: 0
   target: 0
   selectable: 0
+  walkable: 1
   adjacencyList: []
   visited: 0
   parent: {fileID: 0}
@@ -21902,10 +21902,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3d0927957e78098429584e03220c6bc1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  walkable: 1
   current: 0
   target: 0
   selectable: 0
+  walkable: 1
   adjacencyList: []
   visited: 0
   parent: {fileID: 0}
@@ -22010,10 +22010,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3d0927957e78098429584e03220c6bc1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  walkable: 1
   current: 0
   target: 0
   selectable: 0
+  walkable: 1
   adjacencyList: []
   visited: 0
   parent: {fileID: 0}
@@ -22118,10 +22118,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3d0927957e78098429584e03220c6bc1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  walkable: 1
   current: 0
   target: 0
   selectable: 0
+  walkable: 1
   adjacencyList: []
   visited: 0
   parent: {fileID: 0}
@@ -22226,10 +22226,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3d0927957e78098429584e03220c6bc1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  walkable: 1
   current: 0
   target: 0
   selectable: 0
+  walkable: 1
   adjacencyList: []
   visited: 0
   parent: {fileID: 0}
@@ -22334,10 +22334,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3d0927957e78098429584e03220c6bc1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  walkable: 1
   current: 0
   target: 0
   selectable: 0
+  walkable: 1
   adjacencyList: []
   visited: 0
   parent: {fileID: 0}
@@ -22496,10 +22496,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3d0927957e78098429584e03220c6bc1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  walkable: 1
   current: 0
   target: 0
   selectable: 0
+  walkable: 1
   adjacencyList: []
   visited: 0
   parent: {fileID: 0}
@@ -22604,10 +22604,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3d0927957e78098429584e03220c6bc1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  walkable: 1
   current: 0
   target: 0
   selectable: 0
+  walkable: 1
   adjacencyList: []
   visited: 0
   parent: {fileID: 0}
@@ -22658,10 +22658,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3d0927957e78098429584e03220c6bc1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  walkable: 1
   current: 0
   target: 0
   selectable: 0
+  walkable: 1
   adjacencyList: []
   visited: 0
   parent: {fileID: 0}
@@ -22766,10 +22766,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3d0927957e78098429584e03220c6bc1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  walkable: 1
   current: 0
   target: 0
   selectable: 0
+  walkable: 1
   adjacencyList: []
   visited: 0
   parent: {fileID: 0}
@@ -22874,10 +22874,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3d0927957e78098429584e03220c6bc1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  walkable: 1
   current: 0
   target: 0
   selectable: 0
+  walkable: 1
   adjacencyList: []
   visited: 0
   parent: {fileID: 0}
@@ -22982,10 +22982,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3d0927957e78098429584e03220c6bc1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  walkable: 1
   current: 0
   target: 0
   selectable: 0
+  walkable: 1
   adjacencyList: []
   visited: 0
   parent: {fileID: 0}
@@ -23090,10 +23090,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3d0927957e78098429584e03220c6bc1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  walkable: 1
   current: 0
   target: 0
   selectable: 0
+  walkable: 1
   adjacencyList: []
   visited: 0
   parent: {fileID: 0}
@@ -23198,10 +23198,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3d0927957e78098429584e03220c6bc1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  walkable: 1
   current: 0
   target: 0
   selectable: 0
+  walkable: 1
   adjacencyList: []
   visited: 0
   parent: {fileID: 0}
@@ -23306,10 +23306,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3d0927957e78098429584e03220c6bc1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  walkable: 1
   current: 0
   target: 0
   selectable: 0
+  walkable: 1
   adjacencyList: []
   visited: 0
   parent: {fileID: 0}
@@ -23468,10 +23468,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3d0927957e78098429584e03220c6bc1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  walkable: 1
   current: 0
   target: 0
   selectable: 0
+  walkable: 1
   adjacencyList: []
   visited: 0
   parent: {fileID: 0}
@@ -23522,10 +23522,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3d0927957e78098429584e03220c6bc1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  walkable: 1
   current: 0
   target: 0
   selectable: 0
+  walkable: 1
   adjacencyList: []
   visited: 0
   parent: {fileID: 0}
@@ -23630,10 +23630,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3d0927957e78098429584e03220c6bc1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  walkable: 1
   current: 0
   target: 0
   selectable: 0
+  walkable: 1
   adjacencyList: []
   visited: 0
   parent: {fileID: 0}
@@ -23738,10 +23738,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3d0927957e78098429584e03220c6bc1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  walkable: 1
   current: 0
   target: 0
   selectable: 0
+  walkable: 1
   adjacencyList: []
   visited: 0
   parent: {fileID: 0}
@@ -23846,10 +23846,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3d0927957e78098429584e03220c6bc1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  walkable: 1
   current: 0
   target: 0
   selectable: 0
+  walkable: 1
   adjacencyList: []
   visited: 0
   parent: {fileID: 0}
@@ -23954,10 +23954,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3d0927957e78098429584e03220c6bc1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  walkable: 1
   current: 0
   target: 0
   selectable: 0
+  walkable: 1
   adjacencyList: []
   visited: 0
   parent: {fileID: 0}
@@ -24116,10 +24116,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3d0927957e78098429584e03220c6bc1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  walkable: 1
   current: 0
   target: 0
   selectable: 0
+  walkable: 1
   adjacencyList: []
   visited: 0
   parent: {fileID: 0}
@@ -24170,10 +24170,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3d0927957e78098429584e03220c6bc1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  walkable: 1
   current: 0
   target: 0
   selectable: 0
+  walkable: 1
   adjacencyList: []
   visited: 0
   parent: {fileID: 0}
@@ -24278,10 +24278,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3d0927957e78098429584e03220c6bc1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  walkable: 1
   current: 0
   target: 0
   selectable: 0
+  walkable: 1
   adjacencyList: []
   visited: 0
   parent: {fileID: 0}
@@ -24440,10 +24440,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3d0927957e78098429584e03220c6bc1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  walkable: 1
   current: 0
   target: 0
   selectable: 0
+  walkable: 1
   adjacencyList: []
   visited: 0
   parent: {fileID: 0}
@@ -24494,10 +24494,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3d0927957e78098429584e03220c6bc1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  walkable: 1
   current: 0
   target: 0
   selectable: 0
+  walkable: 1
   adjacencyList: []
   visited: 0
   parent: {fileID: 0}
@@ -24602,10 +24602,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3d0927957e78098429584e03220c6bc1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  walkable: 1
   current: 0
   target: 0
   selectable: 0
+  walkable: 1
   adjacencyList: []
   visited: 0
   parent: {fileID: 0}
@@ -24764,10 +24764,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3d0927957e78098429584e03220c6bc1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  walkable: 1
   current: 0
   target: 0
   selectable: 0
+  walkable: 1
   adjacencyList: []
   visited: 0
   parent: {fileID: 0}
@@ -24818,10 +24818,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3d0927957e78098429584e03220c6bc1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  walkable: 1
   current: 0
   target: 0
   selectable: 0
+  walkable: 1
   adjacencyList: []
   visited: 0
   parent: {fileID: 0}
@@ -24980,10 +24980,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3d0927957e78098429584e03220c6bc1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  walkable: 1
   current: 0
   target: 0
   selectable: 0
+  walkable: 1
   adjacencyList: []
   visited: 0
   parent: {fileID: 0}
@@ -25088,10 +25088,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3d0927957e78098429584e03220c6bc1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  walkable: 1
   current: 0
   target: 0
   selectable: 0
+  walkable: 1
   adjacencyList: []
   visited: 0
   parent: {fileID: 0}
@@ -25142,10 +25142,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3d0927957e78098429584e03220c6bc1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  walkable: 1
   current: 0
   target: 0
   selectable: 0
+  walkable: 1
   adjacencyList: []
   visited: 0
   parent: {fileID: 0}
@@ -25250,10 +25250,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3d0927957e78098429584e03220c6bc1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  walkable: 1
   current: 0
   target: 0
   selectable: 0
+  walkable: 1
   adjacencyList: []
   visited: 0
   parent: {fileID: 0}
@@ -25412,10 +25412,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3d0927957e78098429584e03220c6bc1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  walkable: 1
   current: 0
   target: 0
   selectable: 0
+  walkable: 1
   adjacencyList: []
   visited: 0
   parent: {fileID: 0}
@@ -25520,10 +25520,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3d0927957e78098429584e03220c6bc1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  walkable: 1
   current: 0
   target: 0
   selectable: 0
+  walkable: 1
   adjacencyList: []
   visited: 0
   parent: {fileID: 0}
@@ -25628,10 +25628,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3d0927957e78098429584e03220c6bc1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  walkable: 1
   current: 0
   target: 0
   selectable: 0
+  walkable: 1
   adjacencyList: []
   visited: 0
   parent: {fileID: 0}
@@ -25736,10 +25736,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3d0927957e78098429584e03220c6bc1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  walkable: 1
   current: 0
   target: 0
   selectable: 0
+  walkable: 1
   adjacencyList: []
   visited: 0
   parent: {fileID: 0}
@@ -25844,10 +25844,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3d0927957e78098429584e03220c6bc1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  walkable: 1
   current: 0
   target: 0
   selectable: 0
+  walkable: 1
   adjacencyList: []
   visited: 0
   parent: {fileID: 0}
@@ -25898,10 +25898,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3d0927957e78098429584e03220c6bc1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  walkable: 1
   current: 0
   target: 0
   selectable: 0
+  walkable: 1
   adjacencyList: []
   visited: 0
   parent: {fileID: 0}
@@ -26183,10 +26183,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3d0927957e78098429584e03220c6bc1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  walkable: 1
   current: 0
   target: 0
   selectable: 0
+  walkable: 1
   adjacencyList: []
   visited: 0
   parent: {fileID: 0}
@@ -26237,10 +26237,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3d0927957e78098429584e03220c6bc1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  walkable: 1
   current: 0
   target: 0
   selectable: 0
+  walkable: 1
   adjacencyList: []
   visited: 0
   parent: {fileID: 0}
@@ -26345,10 +26345,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3d0927957e78098429584e03220c6bc1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  walkable: 1
   current: 0
   target: 0
   selectable: 0
+  walkable: 1
   adjacencyList: []
   visited: 0
   parent: {fileID: 0}
@@ -26453,10 +26453,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3d0927957e78098429584e03220c6bc1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  walkable: 1
   current: 0
   target: 0
   selectable: 0
+  walkable: 1
   adjacencyList: []
   visited: 0
   parent: {fileID: 0}
@@ -26615,10 +26615,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3d0927957e78098429584e03220c6bc1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  walkable: 1
   current: 0
   target: 0
   selectable: 0
+  walkable: 1
   adjacencyList: []
   visited: 0
   parent: {fileID: 0}
@@ -26669,10 +26669,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3d0927957e78098429584e03220c6bc1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  walkable: 1
   current: 0
   target: 0
   selectable: 0
+  walkable: 1
   adjacencyList: []
   visited: 0
   parent: {fileID: 0}
@@ -26777,10 +26777,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3d0927957e78098429584e03220c6bc1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  walkable: 1
   current: 0
   target: 0
   selectable: 0
+  walkable: 1
   adjacencyList: []
   visited: 0
   parent: {fileID: 0}
@@ -26885,10 +26885,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3d0927957e78098429584e03220c6bc1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  walkable: 1
   current: 0
   target: 0
   selectable: 0
+  walkable: 1
   adjacencyList: []
   visited: 0
   parent: {fileID: 0}
@@ -26993,10 +26993,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3d0927957e78098429584e03220c6bc1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  walkable: 1
   current: 0
   target: 0
   selectable: 0
+  walkable: 1
   adjacencyList: []
   visited: 0
   parent: {fileID: 0}
@@ -27155,10 +27155,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3d0927957e78098429584e03220c6bc1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  walkable: 1
   current: 0
   target: 0
   selectable: 0
+  walkable: 1
   adjacencyList: []
   visited: 0
   parent: {fileID: 0}
@@ -27209,10 +27209,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3d0927957e78098429584e03220c6bc1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  walkable: 1
   current: 0
   target: 0
   selectable: 0
+  walkable: 1
   adjacencyList: []
   visited: 0
   parent: {fileID: 0}
@@ -27317,10 +27317,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3d0927957e78098429584e03220c6bc1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  walkable: 1
   current: 0
   target: 0
   selectable: 0
+  walkable: 1
   adjacencyList: []
   visited: 0
   parent: {fileID: 0}
@@ -27425,10 +27425,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3d0927957e78098429584e03220c6bc1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  walkable: 1
   current: 0
   target: 0
   selectable: 0
+  walkable: 1
   adjacencyList: []
   visited: 0
   parent: {fileID: 0}
@@ -27587,10 +27587,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3d0927957e78098429584e03220c6bc1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  walkable: 1
   current: 0
   target: 0
   selectable: 0
+  walkable: 1
   adjacencyList: []
   visited: 0
   parent: {fileID: 0}
@@ -27641,10 +27641,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3d0927957e78098429584e03220c6bc1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  walkable: 1
   current: 0
   target: 0
   selectable: 0
+  walkable: 1
   adjacencyList: []
   visited: 0
   parent: {fileID: 0}
@@ -27749,10 +27749,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3d0927957e78098429584e03220c6bc1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  walkable: 1
   current: 0
   target: 0
   selectable: 0
+  walkable: 1
   adjacencyList: []
   visited: 0
   parent: {fileID: 0}
@@ -27911,10 +27911,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3d0927957e78098429584e03220c6bc1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  walkable: 1
   current: 0
   target: 0
   selectable: 0
+  walkable: 1
   adjacencyList: []
   visited: 0
   parent: {fileID: 0}
@@ -27965,10 +27965,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3d0927957e78098429584e03220c6bc1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  walkable: 1
   current: 0
   target: 0
   selectable: 0
+  walkable: 1
   adjacencyList: []
   visited: 0
   parent: {fileID: 0}
@@ -28127,10 +28127,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3d0927957e78098429584e03220c6bc1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  walkable: 1
   current: 0
   target: 0
   selectable: 0
+  walkable: 1
   adjacencyList: []
   visited: 0
   parent: {fileID: 0}
@@ -28181,10 +28181,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3d0927957e78098429584e03220c6bc1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  walkable: 1
   current: 0
   target: 0
   selectable: 0
+  walkable: 1
   adjacencyList: []
   visited: 0
   parent: {fileID: 0}
@@ -28289,10 +28289,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3d0927957e78098429584e03220c6bc1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  walkable: 1
   current: 0
   target: 0
   selectable: 0
+  walkable: 1
   adjacencyList: []
   visited: 0
   parent: {fileID: 0}
@@ -28451,10 +28451,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3d0927957e78098429584e03220c6bc1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  walkable: 1
   current: 0
   target: 0
   selectable: 0
+  walkable: 1
   adjacencyList: []
   visited: 0
   parent: {fileID: 0}
@@ -28505,10 +28505,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3d0927957e78098429584e03220c6bc1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  walkable: 1
   current: 0
   target: 0
   selectable: 0
+  walkable: 1
   adjacencyList: []
   visited: 0
   parent: {fileID: 0}
@@ -28667,10 +28667,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3d0927957e78098429584e03220c6bc1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  walkable: 1
   current: 0
   target: 0
   selectable: 0
+  walkable: 1
   adjacencyList: []
   visited: 0
   parent: {fileID: 0}
@@ -28775,10 +28775,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3d0927957e78098429584e03220c6bc1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  walkable: 1
   current: 0
   target: 0
   selectable: 0
+  walkable: 1
   adjacencyList: []
   visited: 0
   parent: {fileID: 0}
@@ -28829,10 +28829,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3d0927957e78098429584e03220c6bc1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  walkable: 1
   current: 0
   target: 0
   selectable: 0
+  walkable: 1
   adjacencyList: []
   visited: 0
   parent: {fileID: 0}
@@ -28937,10 +28937,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3d0927957e78098429584e03220c6bc1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  walkable: 1
   current: 0
   target: 0
   selectable: 0
+  walkable: 1
   adjacencyList: []
   visited: 0
   parent: {fileID: 0}
@@ -29099,10 +29099,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3d0927957e78098429584e03220c6bc1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  walkable: 1
   current: 0
   target: 0
   selectable: 0
+  walkable: 1
   adjacencyList: []
   visited: 0
   parent: {fileID: 0}
@@ -29153,10 +29153,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3d0927957e78098429584e03220c6bc1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  walkable: 1
   current: 0
   target: 0
   selectable: 0
+  walkable: 1
   adjacencyList: []
   visited: 0
   parent: {fileID: 0}
@@ -29261,10 +29261,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3d0927957e78098429584e03220c6bc1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  walkable: 1
   current: 0
   target: 0
   selectable: 0
+  walkable: 1
   adjacencyList: []
   visited: 0
   parent: {fileID: 0}
@@ -29345,7 +29345,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!114 &1226334678
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -29481,10 +29481,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3d0927957e78098429584e03220c6bc1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  walkable: 1
   current: 0
   target: 0
   selectable: 0
+  walkable: 1
   adjacencyList: []
   visited: 0
   parent: {fileID: 0}
@@ -29589,10 +29589,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3d0927957e78098429584e03220c6bc1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  walkable: 1
   current: 0
   target: 0
   selectable: 0
+  walkable: 1
   adjacencyList: []
   visited: 0
   parent: {fileID: 0}
@@ -29751,10 +29751,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3d0927957e78098429584e03220c6bc1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  walkable: 1
   current: 0
   target: 0
   selectable: 0
+  walkable: 1
   adjacencyList: []
   visited: 0
   parent: {fileID: 0}
@@ -29805,10 +29805,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3d0927957e78098429584e03220c6bc1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  walkable: 1
   current: 0
   target: 0
   selectable: 0
+  walkable: 1
   adjacencyList: []
   visited: 0
   parent: {fileID: 0}
@@ -29913,10 +29913,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3d0927957e78098429584e03220c6bc1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  walkable: 1
   current: 0
   target: 0
   selectable: 0
+  walkable: 1
   adjacencyList: []
   visited: 0
   parent: {fileID: 0}
@@ -30075,10 +30075,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3d0927957e78098429584e03220c6bc1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  walkable: 1
   current: 0
   target: 0
   selectable: 0
+  walkable: 1
   adjacencyList: []
   visited: 0
   parent: {fileID: 0}
@@ -30129,10 +30129,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3d0927957e78098429584e03220c6bc1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  walkable: 1
   current: 0
   target: 0
   selectable: 0
+  walkable: 1
   adjacencyList: []
   visited: 0
   parent: {fileID: 0}
@@ -30237,10 +30237,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3d0927957e78098429584e03220c6bc1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  walkable: 1
   current: 0
   target: 0
   selectable: 0
+  walkable: 1
   adjacencyList: []
   visited: 0
   parent: {fileID: 0}
@@ -30443,10 +30443,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3d0927957e78098429584e03220c6bc1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  walkable: 1
   current: 0
   target: 0
   selectable: 0
+  walkable: 1
   adjacencyList: []
   visited: 0
   parent: {fileID: 0}
@@ -30605,10 +30605,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3d0927957e78098429584e03220c6bc1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  walkable: 1
   current: 0
   target: 0
   selectable: 0
+  walkable: 1
   adjacencyList: []
   visited: 0
   parent: {fileID: 0}
@@ -30659,10 +30659,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3d0927957e78098429584e03220c6bc1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  walkable: 1
   current: 0
   target: 0
   selectable: 0
+  walkable: 1
   adjacencyList: []
   visited: 0
   parent: {fileID: 0}
@@ -30821,10 +30821,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3d0927957e78098429584e03220c6bc1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  walkable: 1
   current: 0
   target: 0
   selectable: 0
+  walkable: 1
   adjacencyList: []
   visited: 0
   parent: {fileID: 0}
@@ -30875,10 +30875,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3d0927957e78098429584e03220c6bc1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  walkable: 1
   current: 0
   target: 0
   selectable: 0
+  walkable: 1
   adjacencyList: []
   visited: 0
   parent: {fileID: 0}
@@ -30983,10 +30983,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3d0927957e78098429584e03220c6bc1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  walkable: 1
   current: 0
   target: 0
   selectable: 0
+  walkable: 1
   adjacencyList: []
   visited: 0
   parent: {fileID: 0}
@@ -31145,10 +31145,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3d0927957e78098429584e03220c6bc1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  walkable: 1
   current: 0
   target: 0
   selectable: 0
+  walkable: 1
   adjacencyList: []
   visited: 0
   parent: {fileID: 0}
@@ -31253,10 +31253,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3d0927957e78098429584e03220c6bc1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  walkable: 1
   current: 0
   target: 0
   selectable: 0
+  walkable: 1
   adjacencyList: []
   visited: 0
   parent: {fileID: 0}
@@ -31361,10 +31361,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3d0927957e78098429584e03220c6bc1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  walkable: 1
   current: 0
   target: 0
   selectable: 0
+  walkable: 1
   adjacencyList: []
   visited: 0
   parent: {fileID: 0}
@@ -31415,10 +31415,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3d0927957e78098429584e03220c6bc1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  walkable: 1
   current: 0
   target: 0
   selectable: 0
+  walkable: 1
   adjacencyList: []
   visited: 0
   parent: {fileID: 0}
@@ -31577,10 +31577,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3d0927957e78098429584e03220c6bc1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  walkable: 1
   current: 0
   target: 0
   selectable: 0
+  walkable: 1
   adjacencyList: []
   visited: 0
   parent: {fileID: 0}
@@ -31631,10 +31631,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3d0927957e78098429584e03220c6bc1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  walkable: 1
   current: 0
   target: 0
   selectable: 0
+  walkable: 1
   adjacencyList: []
   visited: 0
   parent: {fileID: 0}
@@ -31739,10 +31739,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3d0927957e78098429584e03220c6bc1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  walkable: 1
   current: 0
   target: 0
   selectable: 0
+  walkable: 1
   adjacencyList: []
   visited: 0
   parent: {fileID: 0}
@@ -31847,10 +31847,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3d0927957e78098429584e03220c6bc1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  walkable: 1
   current: 0
   target: 0
   selectable: 0
+  walkable: 1
   adjacencyList: []
   visited: 0
   parent: {fileID: 0}
@@ -31955,10 +31955,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3d0927957e78098429584e03220c6bc1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  walkable: 1
   current: 0
   target: 0
   selectable: 0
+  walkable: 1
   adjacencyList: []
   visited: 0
   parent: {fileID: 0}
@@ -32117,10 +32117,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3d0927957e78098429584e03220c6bc1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  walkable: 1
   current: 0
   target: 0
   selectable: 0
+  walkable: 1
   adjacencyList: []
   visited: 0
   parent: {fileID: 0}
@@ -32171,10 +32171,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3d0927957e78098429584e03220c6bc1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  walkable: 1
   current: 0
   target: 0
   selectable: 0
+  walkable: 1
   adjacencyList: []
   visited: 0
   parent: {fileID: 0}
@@ -32279,10 +32279,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3d0927957e78098429584e03220c6bc1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  walkable: 1
   current: 0
   target: 0
   selectable: 0
+  walkable: 1
   adjacencyList: []
   visited: 0
   parent: {fileID: 0}
@@ -32441,10 +32441,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3d0927957e78098429584e03220c6bc1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  walkable: 1
   current: 0
   target: 0
   selectable: 0
+  walkable: 1
   adjacencyList: []
   visited: 0
   parent: {fileID: 0}
@@ -32495,10 +32495,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3d0927957e78098429584e03220c6bc1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  walkable: 1
   current: 0
   target: 0
   selectable: 0
+  walkable: 1
   adjacencyList: []
   visited: 0
   parent: {fileID: 0}
@@ -32657,10 +32657,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3d0927957e78098429584e03220c6bc1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  walkable: 1
   current: 0
   target: 0
   selectable: 0
+  walkable: 1
   adjacencyList: []
   visited: 0
   parent: {fileID: 0}
@@ -32711,10 +32711,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3d0927957e78098429584e03220c6bc1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  walkable: 1
   current: 0
   target: 0
   selectable: 0
+  walkable: 1
   adjacencyList: []
   visited: 0
   parent: {fileID: 0}
@@ -32819,10 +32819,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3d0927957e78098429584e03220c6bc1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  walkable: 1
   current: 0
   target: 0
   selectable: 0
+  walkable: 1
   adjacencyList: []
   visited: 0
   parent: {fileID: 0}
@@ -32927,10 +32927,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3d0927957e78098429584e03220c6bc1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  walkable: 1
   current: 0
   target: 0
   selectable: 0
+  walkable: 1
   adjacencyList: []
   visited: 0
   parent: {fileID: 0}
@@ -33089,10 +33089,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3d0927957e78098429584e03220c6bc1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  walkable: 1
   current: 0
   target: 0
   selectable: 0
+  walkable: 1
   adjacencyList: []
   visited: 0
   parent: {fileID: 0}
@@ -33143,10 +33143,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3d0927957e78098429584e03220c6bc1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  walkable: 1
   current: 0
   target: 0
   selectable: 0
+  walkable: 1
   adjacencyList: []
   visited: 0
   parent: {fileID: 0}
@@ -33251,10 +33251,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3d0927957e78098429584e03220c6bc1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  walkable: 1
   current: 0
   target: 0
   selectable: 0
+  walkable: 1
   adjacencyList: []
   visited: 0
   parent: {fileID: 0}
@@ -33413,10 +33413,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3d0927957e78098429584e03220c6bc1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  walkable: 1
   current: 0
   target: 0
   selectable: 0
+  walkable: 1
   adjacencyList: []
   visited: 0
   parent: {fileID: 0}
@@ -33516,10 +33516,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3d0927957e78098429584e03220c6bc1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  walkable: 1
   current: 0
   target: 0
   selectable: 0
+  walkable: 1
   adjacencyList: []
   visited: 0
   parent: {fileID: 0}
@@ -33678,10 +33678,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3d0927957e78098429584e03220c6bc1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  walkable: 1
   current: 0
   target: 0
   selectable: 0
+  walkable: 1
   adjacencyList: []
   visited: 0
   parent: {fileID: 0}
@@ -33786,10 +33786,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3d0927957e78098429584e03220c6bc1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  walkable: 1
   current: 0
   target: 0
   selectable: 0
+  walkable: 1
   adjacencyList: []
   visited: 0
   parent: {fileID: 0}
@@ -33894,10 +33894,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3d0927957e78098429584e03220c6bc1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  walkable: 1
   current: 0
   target: 0
   selectable: 0
+  walkable: 1
   adjacencyList: []
   visited: 0
   parent: {fileID: 0}
@@ -33948,10 +33948,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3d0927957e78098429584e03220c6bc1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  walkable: 1
   current: 0
   target: 0
   selectable: 0
+  walkable: 1
   adjacencyList: []
   visited: 0
   parent: {fileID: 0}
@@ -34110,10 +34110,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3d0927957e78098429584e03220c6bc1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  walkable: 1
   current: 0
   target: 0
   selectable: 0
+  walkable: 1
   adjacencyList: []
   visited: 0
   parent: {fileID: 0}
@@ -34164,10 +34164,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3d0927957e78098429584e03220c6bc1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  walkable: 1
   current: 0
   target: 0
   selectable: 0
+  walkable: 1
   adjacencyList: []
   visited: 0
   parent: {fileID: 0}
@@ -34272,10 +34272,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3d0927957e78098429584e03220c6bc1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  walkable: 1
   current: 0
   target: 0
   selectable: 0
+  walkable: 1
   adjacencyList: []
   visited: 0
   parent: {fileID: 0}
@@ -34380,10 +34380,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3d0927957e78098429584e03220c6bc1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  walkable: 1
   current: 0
   target: 0
   selectable: 0
+  walkable: 1
   adjacencyList: []
   visited: 0
   parent: {fileID: 0}
@@ -34488,10 +34488,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3d0927957e78098429584e03220c6bc1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  walkable: 1
   current: 0
   target: 0
   selectable: 0
+  walkable: 1
   adjacencyList: []
   visited: 0
   parent: {fileID: 0}
@@ -34596,10 +34596,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3d0927957e78098429584e03220c6bc1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  walkable: 1
   current: 0
   target: 0
   selectable: 0
+  walkable: 1
   adjacencyList: []
   visited: 0
   parent: {fileID: 0}
@@ -34704,10 +34704,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3d0927957e78098429584e03220c6bc1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  walkable: 1
   current: 0
   target: 0
   selectable: 0
+  walkable: 1
   adjacencyList: []
   visited: 0
   parent: {fileID: 0}
@@ -34812,10 +34812,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3d0927957e78098429584e03220c6bc1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  walkable: 1
   current: 0
   target: 0
   selectable: 0
+  walkable: 1
   adjacencyList: []
   visited: 0
   parent: {fileID: 0}
@@ -34974,10 +34974,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3d0927957e78098429584e03220c6bc1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  walkable: 1
   current: 0
   target: 0
   selectable: 0
+  walkable: 1
   adjacencyList: []
   visited: 0
   parent: {fileID: 0}
@@ -35028,10 +35028,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3d0927957e78098429584e03220c6bc1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  walkable: 1
   current: 0
   target: 0
   selectable: 0
+  walkable: 1
   adjacencyList: []
   visited: 0
   parent: {fileID: 0}
@@ -35136,10 +35136,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3d0927957e78098429584e03220c6bc1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  walkable: 1
   current: 0
   target: 0
   selectable: 0
+  walkable: 1
   adjacencyList: []
   visited: 0
   parent: {fileID: 0}
@@ -35244,10 +35244,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3d0927957e78098429584e03220c6bc1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  walkable: 1
   current: 0
   target: 0
   selectable: 0
+  walkable: 1
   adjacencyList: []
   visited: 0
   parent: {fileID: 0}
@@ -35352,10 +35352,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3d0927957e78098429584e03220c6bc1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  walkable: 1
   current: 0
   target: 0
   selectable: 0
+  walkable: 1
   adjacencyList: []
   visited: 0
   parent: {fileID: 0}
@@ -35576,10 +35576,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3d0927957e78098429584e03220c6bc1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  walkable: 1
   current: 0
   target: 0
   selectable: 0
+  walkable: 1
   adjacencyList: []
   visited: 0
   parent: {fileID: 0}
@@ -35630,10 +35630,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3d0927957e78098429584e03220c6bc1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  walkable: 1
   current: 0
   target: 0
   selectable: 0
+  walkable: 1
   adjacencyList: []
   visited: 0
   parent: {fileID: 0}
@@ -35738,10 +35738,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3d0927957e78098429584e03220c6bc1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  walkable: 1
   current: 0
   target: 0
   selectable: 0
+  walkable: 1
   adjacencyList: []
   visited: 0
   parent: {fileID: 0}
@@ -35846,10 +35846,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3d0927957e78098429584e03220c6bc1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  walkable: 1
   current: 0
   target: 0
   selectable: 0
+  walkable: 1
   adjacencyList: []
   visited: 0
   parent: {fileID: 0}
@@ -36003,10 +36003,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3d0927957e78098429584e03220c6bc1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  walkable: 1
   current: 0
   target: 0
   selectable: 0
+  walkable: 1
   adjacencyList: []
   visited: 0
   parent: {fileID: 0}
@@ -36111,10 +36111,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3d0927957e78098429584e03220c6bc1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  walkable: 1
   current: 0
   target: 0
   selectable: 0
+  walkable: 1
   adjacencyList: []
   visited: 0
   parent: {fileID: 0}
@@ -36219,10 +36219,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3d0927957e78098429584e03220c6bc1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  walkable: 1
   current: 0
   target: 0
   selectable: 0
+  walkable: 1
   adjacencyList: []
   visited: 0
   parent: {fileID: 0}
@@ -36327,10 +36327,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3d0927957e78098429584e03220c6bc1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  walkable: 1
   current: 0
   target: 0
   selectable: 0
+  walkable: 1
   adjacencyList: []
   visited: 0
   parent: {fileID: 0}
@@ -36489,10 +36489,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3d0927957e78098429584e03220c6bc1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  walkable: 1
   current: 0
   target: 0
   selectable: 0
+  walkable: 1
   adjacencyList: []
   visited: 0
   parent: {fileID: 0}
@@ -36543,10 +36543,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3d0927957e78098429584e03220c6bc1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  walkable: 1
   current: 0
   target: 0
   selectable: 0
+  walkable: 1
   adjacencyList: []
   visited: 0
   parent: {fileID: 0}
@@ -36705,10 +36705,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3d0927957e78098429584e03220c6bc1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  walkable: 1
   current: 0
   target: 0
   selectable: 0
+  walkable: 1
   adjacencyList: []
   visited: 0
   parent: {fileID: 0}
@@ -36759,10 +36759,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3d0927957e78098429584e03220c6bc1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  walkable: 1
   current: 0
   target: 0
   selectable: 0
+  walkable: 1
   adjacencyList: []
   visited: 0
   parent: {fileID: 0}
@@ -36921,10 +36921,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3d0927957e78098429584e03220c6bc1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  walkable: 1
   current: 0
   target: 0
   selectable: 0
+  walkable: 1
   adjacencyList: []
   visited: 0
   parent: {fileID: 0}
@@ -36975,10 +36975,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3d0927957e78098429584e03220c6bc1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  walkable: 1
   current: 0
   target: 0
   selectable: 0
+  walkable: 1
   adjacencyList: []
   visited: 0
   parent: {fileID: 0}
@@ -37083,10 +37083,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3d0927957e78098429584e03220c6bc1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  walkable: 1
   current: 0
   target: 0
   selectable: 0
+  walkable: 1
   adjacencyList: []
   visited: 0
   parent: {fileID: 0}
@@ -37191,10 +37191,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3d0927957e78098429584e03220c6bc1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  walkable: 1
   current: 0
   target: 0
   selectable: 0
+  walkable: 1
   adjacencyList: []
   visited: 0
   parent: {fileID: 0}
@@ -37353,10 +37353,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3d0927957e78098429584e03220c6bc1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  walkable: 1
   current: 0
   target: 0
   selectable: 0
+  walkable: 1
   adjacencyList: []
   visited: 0
   parent: {fileID: 0}
@@ -37461,10 +37461,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3d0927957e78098429584e03220c6bc1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  walkable: 1
   current: 0
   target: 0
   selectable: 0
+  walkable: 1
   adjacencyList: []
   visited: 0
   parent: {fileID: 0}
@@ -37569,10 +37569,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3d0927957e78098429584e03220c6bc1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  walkable: 1
   current: 0
   target: 0
   selectable: 0
+  walkable: 1
   adjacencyList: []
   visited: 0
   parent: {fileID: 0}
@@ -37623,10 +37623,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3d0927957e78098429584e03220c6bc1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  walkable: 1
   current: 0
   target: 0
   selectable: 0
+  walkable: 1
   adjacencyList: []
   visited: 0
   parent: {fileID: 0}
@@ -37897,10 +37897,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3d0927957e78098429584e03220c6bc1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  walkable: 1
   current: 0
   target: 0
   selectable: 0
+  walkable: 1
   adjacencyList: []
   visited: 0
   parent: {fileID: 0}
@@ -38005,10 +38005,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3d0927957e78098429584e03220c6bc1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  walkable: 1
   current: 0
   target: 0
   selectable: 0
+  walkable: 1
   adjacencyList: []
   visited: 0
   parent: {fileID: 0}
@@ -38182,10 +38182,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3d0927957e78098429584e03220c6bc1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  walkable: 1
   current: 0
   target: 0
   selectable: 0
+  walkable: 1
   adjacencyList: []
   visited: 0
   parent: {fileID: 0}
@@ -38352,10 +38352,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3d0927957e78098429584e03220c6bc1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  walkable: 1
   current: 0
   target: 0
   selectable: 0
+  walkable: 1
   adjacencyList: []
   visited: 0
   parent: {fileID: 0}
@@ -38460,10 +38460,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3d0927957e78098429584e03220c6bc1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  walkable: 1
   current: 0
   target: 0
   selectable: 0
+  walkable: 1
   adjacencyList: []
   visited: 0
   parent: {fileID: 0}
@@ -38568,10 +38568,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3d0927957e78098429584e03220c6bc1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  walkable: 1
   current: 0
   target: 0
   selectable: 0
+  walkable: 1
   adjacencyList: []
   visited: 0
   parent: {fileID: 0}
@@ -38676,10 +38676,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3d0927957e78098429584e03220c6bc1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  walkable: 1
   current: 0
   target: 0
   selectable: 0
+  walkable: 1
   adjacencyList: []
   visited: 0
   parent: {fileID: 0}
@@ -38784,10 +38784,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3d0927957e78098429584e03220c6bc1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  walkable: 1
   current: 0
   target: 0
   selectable: 0
+  walkable: 1
   adjacencyList: []
   visited: 0
   parent: {fileID: 0}
@@ -38892,10 +38892,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3d0927957e78098429584e03220c6bc1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  walkable: 1
   current: 0
   target: 0
   selectable: 0
+  walkable: 1
   adjacencyList: []
   visited: 0
   parent: {fileID: 0}
@@ -39000,10 +39000,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3d0927957e78098429584e03220c6bc1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  walkable: 1
   current: 0
   target: 0
   selectable: 0
+  walkable: 1
   adjacencyList: []
   visited: 0
   parent: {fileID: 0}
@@ -39108,10 +39108,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3d0927957e78098429584e03220c6bc1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  walkable: 1
   current: 0
   target: 0
   selectable: 0
+  walkable: 1
   adjacencyList: []
   visited: 0
   parent: {fileID: 0}
@@ -39270,10 +39270,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3d0927957e78098429584e03220c6bc1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  walkable: 1
   current: 0
   target: 0
   selectable: 0
+  walkable: 1
   adjacencyList: []
   visited: 0
   parent: {fileID: 0}
@@ -39378,10 +39378,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3d0927957e78098429584e03220c6bc1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  walkable: 1
   current: 0
   target: 0
   selectable: 0
+  walkable: 1
   adjacencyList: []
   visited: 0
   parent: {fileID: 0}
@@ -39432,10 +39432,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3d0927957e78098429584e03220c6bc1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  walkable: 1
   current: 0
   target: 0
   selectable: 0
+  walkable: 1
   adjacencyList: []
   visited: 0
   parent: {fileID: 0}
@@ -39594,10 +39594,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3d0927957e78098429584e03220c6bc1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  walkable: 1
   current: 0
   target: 0
   selectable: 0
+  walkable: 1
   adjacencyList: []
   visited: 0
   parent: {fileID: 0}
@@ -39648,10 +39648,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3d0927957e78098429584e03220c6bc1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  walkable: 1
   current: 0
   target: 0
   selectable: 0
+  walkable: 1
   adjacencyList: []
   visited: 0
   parent: {fileID: 0}
@@ -39756,10 +39756,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3d0927957e78098429584e03220c6bc1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  walkable: 1
   current: 0
   target: 0
   selectable: 0
+  walkable: 1
   adjacencyList: []
   visited: 0
   parent: {fileID: 0}
@@ -39918,10 +39918,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3d0927957e78098429584e03220c6bc1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  walkable: 1
   current: 0
   target: 0
   selectable: 0
+  walkable: 1
   adjacencyList: []
   visited: 0
   parent: {fileID: 0}
@@ -39972,10 +39972,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3d0927957e78098429584e03220c6bc1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  walkable: 1
   current: 0
   target: 0
   selectable: 0
+  walkable: 1
   adjacencyList: []
   visited: 0
   parent: {fileID: 0}
@@ -40080,10 +40080,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3d0927957e78098429584e03220c6bc1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  walkable: 1
   current: 0
   target: 0
   selectable: 0
+  walkable: 1
   adjacencyList: []
   visited: 0
   parent: {fileID: 0}
@@ -40242,10 +40242,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3d0927957e78098429584e03220c6bc1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  walkable: 1
   current: 0
   target: 0
   selectable: 0
+  walkable: 1
   adjacencyList: []
   visited: 0
   parent: {fileID: 0}
@@ -40350,10 +40350,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3d0927957e78098429584e03220c6bc1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  walkable: 1
   current: 0
   target: 0
   selectable: 0
+  walkable: 1
   adjacencyList: []
   visited: 0
   parent: {fileID: 0}
@@ -40404,10 +40404,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3d0927957e78098429584e03220c6bc1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  walkable: 1
   current: 0
   target: 0
   selectable: 0
+  walkable: 1
   adjacencyList: []
   visited: 0
   parent: {fileID: 0}
@@ -40566,10 +40566,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3d0927957e78098429584e03220c6bc1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  walkable: 1
   current: 0
   target: 0
   selectable: 0
+  walkable: 1
   adjacencyList: []
   visited: 0
   parent: {fileID: 0}
@@ -40674,10 +40674,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3d0927957e78098429584e03220c6bc1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  walkable: 1
   current: 0
   target: 0
   selectable: 0
+  walkable: 1
   adjacencyList: []
   visited: 0
   parent: {fileID: 0}
@@ -40704,7 +40704,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!114 &1650813479
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -40840,10 +40840,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3d0927957e78098429584e03220c6bc1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  walkable: 1
   current: 0
   target: 0
   selectable: 0
+  walkable: 1
   adjacencyList: []
   visited: 0
   parent: {fileID: 0}
@@ -40948,10 +40948,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3d0927957e78098429584e03220c6bc1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  walkable: 1
   current: 0
   target: 0
   selectable: 0
+  walkable: 1
   adjacencyList: []
   visited: 0
   parent: {fileID: 0}
@@ -41056,10 +41056,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3d0927957e78098429584e03220c6bc1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  walkable: 1
   current: 0
   target: 0
   selectable: 0
+  walkable: 1
   adjacencyList: []
   visited: 0
   parent: {fileID: 0}
@@ -41218,10 +41218,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3d0927957e78098429584e03220c6bc1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  walkable: 1
   current: 0
   target: 0
   selectable: 0
+  walkable: 1
   adjacencyList: []
   visited: 0
   parent: {fileID: 0}
@@ -41326,10 +41326,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3d0927957e78098429584e03220c6bc1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  walkable: 1
   current: 0
   target: 0
   selectable: 0
+  walkable: 1
   adjacencyList: []
   visited: 0
   parent: {fileID: 0}
@@ -41380,10 +41380,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3d0927957e78098429584e03220c6bc1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  walkable: 1
   current: 0
   target: 0
   selectable: 0
+  walkable: 1
   adjacencyList: []
   visited: 0
   parent: {fileID: 0}
@@ -41542,10 +41542,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3d0927957e78098429584e03220c6bc1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  walkable: 1
   current: 0
   target: 0
   selectable: 0
+  walkable: 1
   adjacencyList: []
   visited: 0
   parent: {fileID: 0}
@@ -41596,10 +41596,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3d0927957e78098429584e03220c6bc1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  walkable: 1
   current: 0
   target: 0
   selectable: 0
+  walkable: 1
   adjacencyList: []
   visited: 0
   parent: {fileID: 0}
@@ -41758,10 +41758,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3d0927957e78098429584e03220c6bc1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  walkable: 1
   current: 0
   target: 0
   selectable: 0
+  walkable: 1
   adjacencyList: []
   visited: 0
   parent: {fileID: 0}
@@ -41866,10 +41866,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3d0927957e78098429584e03220c6bc1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  walkable: 1
   current: 0
   target: 0
   selectable: 0
+  walkable: 1
   adjacencyList: []
   visited: 0
   parent: {fileID: 0}
@@ -41920,10 +41920,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3d0927957e78098429584e03220c6bc1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  walkable: 1
   current: 0
   target: 0
   selectable: 0
+  walkable: 1
   adjacencyList: []
   visited: 0
   parent: {fileID: 0}
@@ -42134,10 +42134,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3d0927957e78098429584e03220c6bc1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  walkable: 1
   current: 0
   target: 0
   selectable: 0
+  walkable: 1
   adjacencyList: []
   visited: 0
   parent: {fileID: 0}
@@ -42242,10 +42242,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3d0927957e78098429584e03220c6bc1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  walkable: 1
   current: 0
   target: 0
   selectable: 0
+  walkable: 1
   adjacencyList: []
   visited: 0
   parent: {fileID: 0}
@@ -42350,10 +42350,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3d0927957e78098429584e03220c6bc1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  walkable: 1
   current: 0
   target: 0
   selectable: 0
+  walkable: 1
   adjacencyList: []
   visited: 0
   parent: {fileID: 0}
@@ -42458,10 +42458,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3d0927957e78098429584e03220c6bc1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  walkable: 1
   current: 0
   target: 0
   selectable: 0
+  walkable: 1
   adjacencyList: []
   visited: 0
   parent: {fileID: 0}
@@ -42566,10 +42566,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3d0927957e78098429584e03220c6bc1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  walkable: 1
   current: 0
   target: 0
   selectable: 0
+  walkable: 1
   adjacencyList: []
   visited: 0
   parent: {fileID: 0}
@@ -42674,10 +42674,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3d0927957e78098429584e03220c6bc1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  walkable: 1
   current: 0
   target: 0
   selectable: 0
+  walkable: 1
   adjacencyList: []
   visited: 0
   parent: {fileID: 0}
@@ -42782,10 +42782,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3d0927957e78098429584e03220c6bc1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  walkable: 1
   current: 0
   target: 0
   selectable: 0
+  walkable: 1
   adjacencyList: []
   visited: 0
   parent: {fileID: 0}
@@ -42890,10 +42890,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3d0927957e78098429584e03220c6bc1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  walkable: 1
   current: 0
   target: 0
   selectable: 0
+  walkable: 1
   adjacencyList: []
   visited: 0
   parent: {fileID: 0}
@@ -43047,10 +43047,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3d0927957e78098429584e03220c6bc1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  walkable: 1
   current: 0
   target: 0
   selectable: 0
+  walkable: 1
   adjacencyList: []
   visited: 0
   parent: {fileID: 0}
@@ -43209,10 +43209,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3d0927957e78098429584e03220c6bc1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  walkable: 1
   current: 0
   target: 0
   selectable: 0
+  walkable: 1
   adjacencyList: []
   visited: 0
   parent: {fileID: 0}
@@ -43263,10 +43263,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3d0927957e78098429584e03220c6bc1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  walkable: 1
   current: 0
   target: 0
   selectable: 0
+  walkable: 1
   adjacencyList: []
   visited: 0
   parent: {fileID: 0}
@@ -43371,10 +43371,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3d0927957e78098429584e03220c6bc1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  walkable: 1
   current: 0
   target: 0
   selectable: 0
+  walkable: 1
   adjacencyList: []
   visited: 0
   parent: {fileID: 0}
@@ -43479,10 +43479,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3d0927957e78098429584e03220c6bc1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  walkable: 1
   current: 0
   target: 0
   selectable: 0
+  walkable: 1
   adjacencyList: []
   visited: 0
   parent: {fileID: 0}
@@ -43587,10 +43587,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3d0927957e78098429584e03220c6bc1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  walkable: 1
   current: 0
   target: 0
   selectable: 0
+  walkable: 1
   adjacencyList: []
   visited: 0
   parent: {fileID: 0}
@@ -43695,10 +43695,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3d0927957e78098429584e03220c6bc1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  walkable: 1
   current: 0
   target: 0
   selectable: 0
+  walkable: 1
   adjacencyList: []
   visited: 0
   parent: {fileID: 0}
@@ -43857,10 +43857,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3d0927957e78098429584e03220c6bc1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  walkable: 1
   current: 0
   target: 0
   selectable: 0
+  walkable: 1
   adjacencyList: []
   visited: 0
   parent: {fileID: 0}
@@ -43965,10 +43965,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3d0927957e78098429584e03220c6bc1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  walkable: 1
   current: 0
   target: 0
   selectable: 0
+  walkable: 1
   adjacencyList: []
   visited: 0
   parent: {fileID: 0}
@@ -44019,10 +44019,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3d0927957e78098429584e03220c6bc1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  walkable: 1
   current: 0
   target: 0
   selectable: 0
+  walkable: 1
   adjacencyList: []
   visited: 0
   parent: {fileID: 0}
@@ -44127,10 +44127,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3d0927957e78098429584e03220c6bc1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  walkable: 1
   current: 0
   target: 0
   selectable: 0
+  walkable: 1
   adjacencyList: []
   visited: 0
   parent: {fileID: 0}
@@ -44235,10 +44235,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3d0927957e78098429584e03220c6bc1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  walkable: 1
   current: 0
   target: 0
   selectable: 0
+  walkable: 1
   adjacencyList: []
   visited: 0
   parent: {fileID: 0}
@@ -44343,10 +44343,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3d0927957e78098429584e03220c6bc1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  walkable: 1
   current: 0
   target: 0
   selectable: 0
+  walkable: 1
   adjacencyList: []
   visited: 0
   parent: {fileID: 0}
@@ -44644,10 +44644,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3d0927957e78098429584e03220c6bc1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  walkable: 1
   current: 0
   target: 0
   selectable: 0
+  walkable: 1
   adjacencyList: []
   visited: 0
   parent: {fileID: 0}
@@ -44752,10 +44752,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3d0927957e78098429584e03220c6bc1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  walkable: 1
   current: 0
   target: 0
   selectable: 0
+  walkable: 1
   adjacencyList: []
   visited: 0
   parent: {fileID: 0}
@@ -44914,10 +44914,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3d0927957e78098429584e03220c6bc1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  walkable: 1
   current: 0
   target: 0
   selectable: 0
+  walkable: 1
   adjacencyList: []
   visited: 0
   parent: {fileID: 0}
@@ -44968,10 +44968,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3d0927957e78098429584e03220c6bc1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  walkable: 1
   current: 0
   target: 0
   selectable: 0
+  walkable: 1
   adjacencyList: []
   visited: 0
   parent: {fileID: 0}
@@ -45076,10 +45076,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3d0927957e78098429584e03220c6bc1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  walkable: 1
   current: 0
   target: 0
   selectable: 0
+  walkable: 1
   adjacencyList: []
   visited: 0
   parent: {fileID: 0}
@@ -45238,10 +45238,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3d0927957e78098429584e03220c6bc1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  walkable: 1
   current: 0
   target: 0
   selectable: 0
+  walkable: 1
   adjacencyList: []
   visited: 0
   parent: {fileID: 0}
@@ -45346,10 +45346,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3d0927957e78098429584e03220c6bc1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  walkable: 1
   current: 0
   target: 0
   selectable: 0
+  walkable: 1
   adjacencyList: []
   visited: 0
   parent: {fileID: 0}
@@ -45400,10 +45400,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3d0927957e78098429584e03220c6bc1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  walkable: 1
   current: 0
   target: 0
   selectable: 0
+  walkable: 1
   adjacencyList: []
   visited: 0
   parent: {fileID: 0}
@@ -45508,10 +45508,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3d0927957e78098429584e03220c6bc1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  walkable: 1
   current: 0
   target: 0
   selectable: 0
+  walkable: 1
   adjacencyList: []
   visited: 0
   parent: {fileID: 0}
@@ -45616,10 +45616,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3d0927957e78098429584e03220c6bc1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  walkable: 1
   current: 0
   target: 0
   selectable: 0
+  walkable: 1
   adjacencyList: []
   visited: 0
   parent: {fileID: 0}
@@ -45724,10 +45724,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3d0927957e78098429584e03220c6bc1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  walkable: 1
   current: 0
   target: 0
   selectable: 0
+  walkable: 1
   adjacencyList: []
   visited: 0
   parent: {fileID: 0}
@@ -45832,10 +45832,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3d0927957e78098429584e03220c6bc1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  walkable: 1
   current: 0
   target: 0
   selectable: 0
+  walkable: 1
   adjacencyList: []
   visited: 0
   parent: {fileID: 0}
@@ -45989,10 +45989,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3d0927957e78098429584e03220c6bc1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  walkable: 1
   current: 0
   target: 0
   selectable: 0
+  walkable: 1
   adjacencyList: []
   visited: 0
   parent: {fileID: 0}
@@ -46097,10 +46097,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3d0927957e78098429584e03220c6bc1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  walkable: 1
   current: 0
   target: 0
   selectable: 0
+  walkable: 1
   adjacencyList: []
   visited: 0
   parent: {fileID: 0}
@@ -46205,10 +46205,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3d0927957e78098429584e03220c6bc1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  walkable: 1
   current: 0
   target: 0
   selectable: 0
+  walkable: 1
   adjacencyList: []
   visited: 0
   parent: {fileID: 0}
@@ -46313,10 +46313,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3d0927957e78098429584e03220c6bc1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  walkable: 1
   current: 0
   target: 0
   selectable: 0
+  walkable: 1
   adjacencyList: []
   visited: 0
   parent: {fileID: 0}
@@ -46421,10 +46421,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3d0927957e78098429584e03220c6bc1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  walkable: 1
   current: 0
   target: 0
   selectable: 0
+  walkable: 1
   adjacencyList: []
   visited: 0
   parent: {fileID: 0}
@@ -46529,10 +46529,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3d0927957e78098429584e03220c6bc1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  walkable: 1
   current: 0
   target: 0
   selectable: 0
+  walkable: 1
   adjacencyList: []
   visited: 0
   parent: {fileID: 0}
@@ -46637,10 +46637,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3d0927957e78098429584e03220c6bc1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  walkable: 1
   current: 0
   target: 0
   selectable: 0
+  walkable: 1
   adjacencyList: []
   visited: 0
   parent: {fileID: 0}
@@ -46745,10 +46745,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3d0927957e78098429584e03220c6bc1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  walkable: 1
   current: 0
   target: 0
   selectable: 0
+  walkable: 1
   adjacencyList: []
   visited: 0
   parent: {fileID: 0}
@@ -46853,10 +46853,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3d0927957e78098429584e03220c6bc1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  walkable: 1
   current: 0
   target: 0
   selectable: 0
+  walkable: 1
   adjacencyList: []
   visited: 0
   parent: {fileID: 0}
@@ -46961,10 +46961,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3d0927957e78098429584e03220c6bc1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  walkable: 1
   current: 0
   target: 0
   selectable: 0
+  walkable: 1
   adjacencyList: []
   visited: 0
   parent: {fileID: 0}
@@ -47069,10 +47069,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3d0927957e78098429584e03220c6bc1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  walkable: 1
   current: 0
   target: 0
   selectable: 0
+  walkable: 1
   adjacencyList: []
   visited: 0
   parent: {fileID: 0}
@@ -47177,10 +47177,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3d0927957e78098429584e03220c6bc1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  walkable: 1
   current: 0
   target: 0
   selectable: 0
+  walkable: 1
   adjacencyList: []
   visited: 0
   parent: {fileID: 0}
@@ -47351,10 +47351,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3d0927957e78098429584e03220c6bc1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  walkable: 1
   current: 0
   target: 0
   selectable: 0
+  walkable: 1
   adjacencyList: []
   visited: 0
   parent: {fileID: 0}
@@ -47459,10 +47459,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3d0927957e78098429584e03220c6bc1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  walkable: 1
   current: 0
   target: 0
   selectable: 0
+  walkable: 1
   adjacencyList: []
   visited: 0
   parent: {fileID: 0}
@@ -47567,10 +47567,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3d0927957e78098429584e03220c6bc1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  walkable: 1
   current: 0
   target: 0
   selectable: 0
+  walkable: 1
   adjacencyList: []
   visited: 0
   parent: {fileID: 0}
@@ -47675,10 +47675,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3d0927957e78098429584e03220c6bc1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  walkable: 1
   current: 0
   target: 0
   selectable: 0
+  walkable: 1
   adjacencyList: []
   visited: 0
   parent: {fileID: 0}
@@ -47783,10 +47783,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3d0927957e78098429584e03220c6bc1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  walkable: 1
   current: 0
   target: 0
   selectable: 0
+  walkable: 1
   adjacencyList: []
   visited: 0
   parent: {fileID: 0}
@@ -47891,10 +47891,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3d0927957e78098429584e03220c6bc1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  walkable: 1
   current: 0
   target: 0
   selectable: 0
+  walkable: 1
   adjacencyList: []
   visited: 0
   parent: {fileID: 0}
@@ -47999,10 +47999,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3d0927957e78098429584e03220c6bc1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  walkable: 1
   current: 0
   target: 0
   selectable: 0
+  walkable: 1
   adjacencyList: []
   visited: 0
   parent: {fileID: 0}
@@ -48107,10 +48107,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3d0927957e78098429584e03220c6bc1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  walkable: 1
   current: 0
   target: 0
   selectable: 0
+  walkable: 1
   adjacencyList: []
   visited: 0
   parent: {fileID: 0}
@@ -48215,10 +48215,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3d0927957e78098429584e03220c6bc1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  walkable: 1
   current: 0
   target: 0
   selectable: 0
+  walkable: 1
   adjacencyList: []
   visited: 0
   parent: {fileID: 0}
@@ -48323,10 +48323,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3d0927957e78098429584e03220c6bc1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  walkable: 1
   current: 0
   target: 0
   selectable: 0
+  walkable: 1
   adjacencyList: []
   visited: 0
   parent: {fileID: 0}
@@ -48480,10 +48480,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3d0927957e78098429584e03220c6bc1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  walkable: 1
   current: 0
   target: 0
   selectable: 0
+  walkable: 1
   adjacencyList: []
   visited: 0
   parent: {fileID: 0}
@@ -48588,10 +48588,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3d0927957e78098429584e03220c6bc1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  walkable: 1
   current: 0
   target: 0
   selectable: 0
+  walkable: 1
   adjacencyList: []
   visited: 0
   parent: {fileID: 0}
@@ -48696,10 +48696,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3d0927957e78098429584e03220c6bc1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  walkable: 1
   current: 0
   target: 0
   selectable: 0
+  walkable: 1
   adjacencyList: []
   visited: 0
   parent: {fileID: 0}
@@ -48907,10 +48907,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3d0927957e78098429584e03220c6bc1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  walkable: 1
   current: 0
   target: 0
   selectable: 0
+  walkable: 1
   adjacencyList: []
   visited: 0
   parent: {fileID: 0}
@@ -48961,10 +48961,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3d0927957e78098429584e03220c6bc1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  walkable: 1
   current: 0
   target: 0
   selectable: 0
+  walkable: 1
   adjacencyList: []
   visited: 0
   parent: {fileID: 0}
@@ -49118,10 +49118,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3d0927957e78098429584e03220c6bc1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  walkable: 1
   current: 0
   target: 0
   selectable: 0
+  walkable: 1
   adjacencyList: []
   visited: 0
   parent: {fileID: 0}
@@ -49226,10 +49226,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3d0927957e78098429584e03220c6bc1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  walkable: 1
   current: 0
   target: 0
   selectable: 0
+  walkable: 1
   adjacencyList: []
   visited: 0
   parent: {fileID: 0}
@@ -49334,10 +49334,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3d0927957e78098429584e03220c6bc1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  walkable: 1
   current: 0
   target: 0
   selectable: 0
+  walkable: 1
   adjacencyList: []
   visited: 0
   parent: {fileID: 0}
@@ -49496,10 +49496,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3d0927957e78098429584e03220c6bc1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  walkable: 1
   current: 0
   target: 0
   selectable: 0
+  walkable: 1
   adjacencyList: []
   visited: 0
   parent: {fileID: 0}
@@ -49550,10 +49550,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3d0927957e78098429584e03220c6bc1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  walkable: 1
   current: 0
   target: 0
   selectable: 0
+  walkable: 1
   adjacencyList: []
   visited: 0
   parent: {fileID: 0}
@@ -49658,10 +49658,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3d0927957e78098429584e03220c6bc1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  walkable: 1
   current: 0
   target: 0
   selectable: 0
+  walkable: 1
   adjacencyList: []
   visited: 0
   parent: {fileID: 0}
@@ -49766,10 +49766,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3d0927957e78098429584e03220c6bc1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  walkable: 1
   current: 0
   target: 0
   selectable: 0
+  walkable: 1
   adjacencyList: []
   visited: 0
   parent: {fileID: 0}
@@ -49874,10 +49874,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3d0927957e78098429584e03220c6bc1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  walkable: 1
   current: 0
   target: 0
   selectable: 0
+  walkable: 1
   adjacencyList: []
   visited: 0
   parent: {fileID: 0}
@@ -49982,10 +49982,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3d0927957e78098429584e03220c6bc1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  walkable: 1
   current: 0
   target: 0
   selectable: 0
+  walkable: 1
   adjacencyList: []
   visited: 0
   parent: {fileID: 0}
@@ -50144,10 +50144,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3d0927957e78098429584e03220c6bc1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  walkable: 1
   current: 0
   target: 0
   selectable: 0
+  walkable: 1
   adjacencyList: []
   visited: 0
   parent: {fileID: 0}
@@ -50198,10 +50198,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3d0927957e78098429584e03220c6bc1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  walkable: 1
   current: 0
   target: 0
   selectable: 0
+  walkable: 1
   adjacencyList: []
   visited: 0
   parent: {fileID: 0}
@@ -50360,10 +50360,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3d0927957e78098429584e03220c6bc1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  walkable: 1
   current: 0
   target: 0
   selectable: 0
+  walkable: 1
   adjacencyList: []
   visited: 0
   parent: {fileID: 0}
@@ -50468,10 +50468,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3d0927957e78098429584e03220c6bc1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  walkable: 1
   current: 0
   target: 0
   selectable: 0
+  walkable: 1
   adjacencyList: []
   visited: 0
   parent: {fileID: 0}
@@ -50522,10 +50522,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3d0927957e78098429584e03220c6bc1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  walkable: 1
   current: 0
   target: 0
   selectable: 0
+  walkable: 1
   adjacencyList: []
   visited: 0
   parent: {fileID: 0}
@@ -50630,10 +50630,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3d0927957e78098429584e03220c6bc1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  walkable: 1
   current: 0
   target: 0
   selectable: 0
+  walkable: 1
   adjacencyList: []
   visited: 0
   parent: {fileID: 0}
@@ -50738,10 +50738,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3d0927957e78098429584e03220c6bc1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  walkable: 1
   current: 0
   target: 0
   selectable: 0
+  walkable: 1
   adjacencyList: []
   visited: 0
   parent: {fileID: 0}
@@ -50846,10 +50846,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3d0927957e78098429584e03220c6bc1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  walkable: 1
   current: 0
   target: 0
   selectable: 0
+  walkable: 1
   adjacencyList: []
   visited: 0
   parent: {fileID: 0}
@@ -50954,10 +50954,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3d0927957e78098429584e03220c6bc1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  walkable: 1
   current: 0
   target: 0
   selectable: 0
+  walkable: 1
   adjacencyList: []
   visited: 0
   parent: {fileID: 0}
@@ -51116,10 +51116,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3d0927957e78098429584e03220c6bc1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  walkable: 1
   current: 0
   target: 0
   selectable: 0
+  walkable: 1
   adjacencyList: []
   visited: 0
   parent: {fileID: 0}
@@ -51170,10 +51170,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3d0927957e78098429584e03220c6bc1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  walkable: 1
   current: 0
   target: 0
   selectable: 0
+  walkable: 1
   adjacencyList: []
   visited: 0
   parent: {fileID: 0}
@@ -51278,10 +51278,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3d0927957e78098429584e03220c6bc1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  walkable: 1
   current: 0
   target: 0
   selectable: 0
+  walkable: 1
   adjacencyList: []
   visited: 0
   parent: {fileID: 0}
@@ -51427,10 +51427,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3d0927957e78098429584e03220c6bc1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  walkable: 1
   current: 0
   target: 0
   selectable: 0
+  walkable: 1
   adjacencyList: []
   visited: 0
   parent: {fileID: 0}
@@ -51589,10 +51589,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3d0927957e78098429584e03220c6bc1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  walkable: 1
   current: 0
   target: 0
   selectable: 0
+  walkable: 1
   adjacencyList: []
   visited: 0
   parent: {fileID: 0}
@@ -51643,10 +51643,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3d0927957e78098429584e03220c6bc1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  walkable: 1
   current: 0
   target: 0
   selectable: 0
+  walkable: 1
   adjacencyList: []
   visited: 0
   parent: {fileID: 0}
@@ -51751,10 +51751,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3d0927957e78098429584e03220c6bc1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  walkable: 1
   current: 0
   target: 0
   selectable: 0
+  walkable: 1
   adjacencyList: []
   visited: 0
   parent: {fileID: 0}
@@ -51859,10 +51859,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3d0927957e78098429584e03220c6bc1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  walkable: 1
   current: 0
   target: 0
   selectable: 0
+  walkable: 1
   adjacencyList: []
   visited: 0
   parent: {fileID: 0}
@@ -51967,10 +51967,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3d0927957e78098429584e03220c6bc1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  walkable: 1
   current: 0
   target: 0
   selectable: 0
+  walkable: 1
   adjacencyList: []
   visited: 0
   parent: {fileID: 0}
@@ -52075,10 +52075,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3d0927957e78098429584e03220c6bc1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  walkable: 1
   current: 0
   target: 0
   selectable: 0
+  walkable: 1
   adjacencyList: []
   visited: 0
   parent: {fileID: 0}
@@ -52237,10 +52237,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3d0927957e78098429584e03220c6bc1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  walkable: 1
   current: 0
   target: 0
   selectable: 0
+  walkable: 1
   adjacencyList: []
   visited: 0
   parent: {fileID: 0}
@@ -52345,10 +52345,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3d0927957e78098429584e03220c6bc1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  walkable: 1
   current: 0
   target: 0
   selectable: 0
+  walkable: 1
   adjacencyList: []
   visited: 0
   parent: {fileID: 0}
@@ -52399,10 +52399,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3d0927957e78098429584e03220c6bc1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  walkable: 1
   current: 0
   target: 0
   selectable: 0
+  walkable: 1
   adjacencyList: []
   visited: 0
   parent: {fileID: 0}
@@ -52507,10 +52507,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3d0927957e78098429584e03220c6bc1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  walkable: 1
   current: 0
   target: 0
   selectable: 0
+  walkable: 1
   adjacencyList: []
   visited: 0
   parent: {fileID: 0}
@@ -52615,10 +52615,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3d0927957e78098429584e03220c6bc1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  walkable: 1
   current: 0
   target: 0
   selectable: 0
+  walkable: 1
   adjacencyList: []
   visited: 0
   parent: {fileID: 0}

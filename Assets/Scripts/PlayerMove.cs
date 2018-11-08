@@ -5,35 +5,37 @@ using UnityEngine;
 public class PlayerMove : TacticsMove
 {
 
-	// Use this for initialization
-	void Start()
-	{
+    void Start()
+    {
+//        Debug.Log("Inside PlayerMove class");
         Init();
-	}
+    }
 
-	// Update is called once per frame
-	void Update()
-	{
-        Debug.DrawRay(transform.position, transform.forward);
+    void Update()
+    {
+//        Debug.Log("Inside PlayerMove#Update");
+
+//        Debug.DrawRay(transform.position, transform.forward);
 
         if (!turn)
         {
-						CheckMouse();
-						RemoveSelectableTiles();
+            CheckMouse();
+            RemoveSelectableTiles();
             return;
         }
-				//
+
+        //
         if (!moving) // && isSelected)
         {
-					CheckMouse();
-          FindSelectableTiles();
+            CheckMouse();
+            FindSelectableTiles();
         }
 
-				if(turn && moving)
+        if (turn && moving)
         {
             Move();
-	      }
-	}
+        }
+    }
 
     void CheckMouse()
     {
@@ -44,43 +46,44 @@ public class PlayerMove : TacticsMove
             RaycastHit hit;
             if (Physics.Raycast(ray, out hit))
             {
-							if(hit.collider.tag == "Player")
-							{
-								PlayerMove p = hit.collider.GetComponent<PlayerMove>();
+                if (hit.collider.CompareTag("Player"))
+                {
+                    PlayerMove p = hit.collider.GetComponent<PlayerMove>();
+//                    Debug.Log(p.ToString());
 
-								moving = false;
-								EndTurn();
+                    moving = false;
+                    EndTurn();
 
-								if(this == p && !p.moved)
-								{
-									BeginTurn();
-									// Debug.Log("You Clicked Me! " + name);
-								}
-								// turn = false;
-								// RemoveSelectableTiles();
-								// EndTurn();
-								// // p.isSelected = true;
-								// p.BeginTurn();
-								// p.FindSelectableTiles();
-								// p.HasMoved();
-								// p.RemoveSelectableTiles();
-							}
-							// moved = true;
+                    if (this == p && !p.moved)
+                    {
+                        BeginTurn();
+//                        Debug.Log("You Clicked Me! " + name);
+                    }
+
+                    // turn = false;
+                    // RemoveSelectableTiles();
+                    // EndTurn();
+                    // // p.isSelected = true;
+                    // p.BeginTurn();
+                    // p.FindSelectableTiles();
+                    // p.HasMoved();
+                    // p.RemoveSelectableTiles();
+                }
+                // moved = true;
 
 
-								if (hit.collider.tag == "Tile")
+                if (hit.collider.CompareTag("Tile"))
                 {
                     Tile t = hit.collider.GetComponent<Tile>();
-										// Debug.Log("target " + t.name + " = " + t.target);
+                    // Debug.Log("target " + t.name + " = " + t.target);
 
-										if (t.selectable)
+                    if (t.selectable)
                     {
                         MoveToTile(t);
                     }
                 }
-
-
             }
         }
     }
+    
 }

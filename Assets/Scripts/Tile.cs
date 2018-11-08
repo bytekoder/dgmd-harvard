@@ -1,54 +1,72 @@
-﻿using System.Collections;
-using System.Collections.Generic;
+﻿using System.Collections.Generic;
 using UnityEngine;
 
 public class Tile : MonoBehaviour
 {
-    public bool walkable = true;
+    // The tile player is standing on
     public bool current = false;
+
+    // The tile where the player needs to go to
     public bool target = false;
+
+    // The possible tiles a player can make a move to
     public bool selectable = false;
 
+    // In order to mark a tile un-walkable (obstacles), this flag can be used
+    // This also controls the ability to not bump into other players
+    public bool walkable = true;
+
+    // Contains the adjacency matrix that has neighbors
     public List<Tile> adjacencyList = new List<Tile>();
 
-    //Needed BFS (breadth first search)
+    #region BFSVariables
+
+    // Flag to indicate if a tile has been processed. This only happens once per turn.
     public bool visited = false;
     public Tile parent = null;
+
+    // How far each tile is from start tile
     public int distance = 0;
+
+    #endregion
 
     //For A*
     public float f = 0;
     public float g = 0;
     public float h = 0;
 
-	// Use this for initialization
-	void Start ()
-	{
+    // Use this for initialization
+    void Start()
+    {
+    }
 
-	}
-
-	// Update is called once per frame
-	void Update ()
-	{
+    void Update()
+    {
         if (target)
         {
-            // Debug.Log("target green");
+            // Get the target tile (green(
             GetComponent<Renderer>().material.color = Color.green;
         }
         else if (current)
         {
+            // Get the current tile where the player is (magenta)
             GetComponent<Renderer>().material.color = Color.magenta;
         }
         else if (selectable)
         {
+            // Get the selectable tiles (reds)
             GetComponent<Renderer>().material.color = Color.red;
         }
         else
         {
+            // Get the remaining tiles (whites)
             GetComponent<Renderer>().material.color = Color.white;
         }
-	}
+    }
 
+    /// <summary>
+    /// Reset all the variables every turn and clear the adjacency list
+    /// </summary>
     public void Reset()
     {
         adjacencyList.Clear();
@@ -69,11 +87,10 @@ public class Tile : MonoBehaviour
         Reset();
 
         CheckTile(Vector3.forward, jumpHeight, target);
-        // CheckTile(-Vector3.forward, jumpHeight, target);
         CheckTile(Vector3.back, jumpHeight, target);
         CheckTile(Vector3.right, jumpHeight, target);
         CheckTile(Vector3.left, jumpHeight, target);
-        // CheckTile(-Vector3.right, jumpHeight, target);
+
     }
 
     public void CheckTile(Vector3 direction, float jumpHeight, Tile target)

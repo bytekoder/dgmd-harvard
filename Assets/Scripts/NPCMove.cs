@@ -9,13 +9,15 @@ public class NPCMove : TacticsMove
 	// Use this for initialization
 	void Start () 
 	{
+//	    Debug.Log("Inside NPCMove class");
         Init();
 	}
 	
 	// Update is called once per frame
 	void Update () 
 	{
-        Debug.DrawRay(transform.position, transform.forward);
+//	      Debug.Log("Inside NPCMove#Update");
+//        Debug.DrawRay(transform.position, transform.forward);
 
         if (!turn)
         {
