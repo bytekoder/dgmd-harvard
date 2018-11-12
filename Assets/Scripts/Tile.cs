@@ -43,7 +43,10 @@ public class Tile : MonoBehaviour
     {
     }
 
-    void Update()
+    // // updated by: egillis
+    // // updated at: 2018-11-11
+    // // updated for: changed Update to FixedUpdate so that triggering happens consistently
+    void FixedUpdate()
     {
         if (target)
         {

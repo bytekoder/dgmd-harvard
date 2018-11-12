@@ -18,8 +18,10 @@ public class TurnManager : MonoBehaviour
 
     }
 
-    // Update is called once per frame
-    void Update()
+    // // updated by: egillis
+    // // updated at: 2018-11-11
+    // // updated for: changed Update to FixedUpdate so that triggering happens consistently
+    void FixedUpdate()
     {
 //        Debug.Log("Inside TurnManager#Update");
 

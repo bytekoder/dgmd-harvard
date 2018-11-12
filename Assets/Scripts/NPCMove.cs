@@ -33,8 +33,10 @@ public class NPCMove : TacticsMove
         Init();
 	}
 	
-	// Update is called once per frame
-	void Update () 
+    // // updated by: egillis
+    // // updated at: 2018-11-11
+    // // updated for: changed Update to FixedUpdate so that triggering happens consistently
+    void FixedUpdate()
 	{
 //	      Debug.Log("Inside NPCMove#Update");
 //        Debug.DrawRay(transform.position, transform.forward);
@@ -46,9 +48,11 @@ public class NPCMove : TacticsMove
 
         if (!moving)
         {
+//            TurnManager.StartTurn();
             FindNearestTarget();
             CalculatePath();
-            FindSelectableTiles();
+            // removed following to hide red tiles of NPC
+//            FindSelectableTiles();
             actualTargetTile.target = true;
         }
         else
@@ -91,12 +95,14 @@ public class NPCMove : TacticsMove
 
         if (nearest)
         {
+//            TurnManager.StartTurn();
             moving = true;
             turn = true;
             target = nearest;
         }
         else
         {
+//            TurnManager.EndTurn();
             moving = false;
             turn = false;
         }

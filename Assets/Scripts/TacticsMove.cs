@@ -182,6 +182,7 @@ public class TacticsMove : MonoBehaviour
         Vector3 tempPosition = transform.position;
         if (path.Count > 0)
         {
+            moving = true;
             // Debug.Log(path.Count);
 
             Tile t = path.Peek();
@@ -219,16 +220,16 @@ public class TacticsMove : MonoBehaviour
                     // transparent
                     tempTransparency = 0.1f;
                     
+                    // set player to invisible
                     if (tag == "Player")
                     {
                         visible = false;
-                        // Debug.Log("Player");
                     }
 
                 }
                 else
                 {
-                    // opaque
+                    // set player to visible
                     tempTransparency = 1.0f;
                     visible = true;
                 }
@@ -251,7 +252,7 @@ public class TacticsMove : MonoBehaviour
             // Debug.Log("stopped moving " + name);
             //moved = true;
 
-            TurnManager.EndTurn();
+//            TurnManager.EndTurn();
         }
     }
 
