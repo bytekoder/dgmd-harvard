@@ -12,6 +12,9 @@ public class Tile : MonoBehaviour
     // The possible tiles a player can make a move to
     public bool selectable = false;
 
+    // The tile is able to be used as cover and hide from monster
+    public bool cover = false;
+
     // In order to mark a tile un-walkable (obstacles), this flag can be used
     // This also controls the ability to not bump into other players
     public bool walkable = true;

@@ -11,6 +11,9 @@ public class TacticsMove : MonoBehaviour
     // List of selectable tiles
     List<Tile> selectableTiles = new List<Tile>();
 
+    // Is player visible
+    public bool visible = true;
+
     // In turn?
     public bool turn = false;
     
@@ -160,6 +163,7 @@ public class TacticsMove : MonoBehaviour
 
         path.Clear();
         tile.target = true;
+
         if (turn)
         {
             moving = true;
@@ -206,6 +210,35 @@ public class TacticsMove : MonoBehaviour
             }
             else
             {
+                // set temp transparency variable
+                float tempTransparency;
+
+                // if tile is "cover"
+                if (t.cover)
+                {
+                    // transparent
+                    tempTransparency = 0.1f;
+                    
+                    if (tag == "Player")
+                    {
+                        visible = false;
+                        // Debug.Log("Player");
+                    }
+
+                }
+                else
+                {
+                    // opaque
+                    tempTransparency = 1.0f;
+                    visible = true;
+                }
+
+                // set color of player to have value of transparency
+                var thisObjectMaterialColor = GetComponent<Renderer>().material.color;            
+                thisObjectMaterialColor.a = tempTransparency;
+                GetComponent<Renderer>().material.color = thisObjectMaterialColor;
+
+
                 //Tile center reached
                 transform.position = target;
                 path.Pop();
@@ -222,6 +255,8 @@ public class TacticsMove : MonoBehaviour
         }
     }
 
+    
+    
     protected void RemoveSelectableTiles()
     {
 //        Debug.Log("Inside PlayerMove#RemoveSelectableTiles");

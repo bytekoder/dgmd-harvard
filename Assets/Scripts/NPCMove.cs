@@ -6,7 +6,6 @@ public class NPCMove : TacticsMove
 {
     GameObject target;
 
-
     public override void Reset()
     {
         // // updated by: emgillis
@@ -73,15 +72,33 @@ public class NPCMove : TacticsMove
 
         foreach (GameObject obj in targets)
         {
-            float d = Vector3.Distance(transform.position, obj.transform.position);
-
-            if (d < distance)
+            if (obj.GetComponent<PlayerMove>().visible)
             {
-                distance = d;
-                nearest = obj;
+                float d = Vector3.Distance(transform.position, obj.transform.position);
+
+                if (d < distance)
+                {
+                    distance = d;
+                    nearest = obj;
+                }
+                
+            }
+            else
+            {
+                nearest = null;
             }
         }
 
-        target = nearest;
+        if (nearest)
+        {
+            moving = true;
+            turn = true;
+            target = nearest;
+        }
+        else
+        {
+            moving = false;
+            turn = false;
+        }
     }
 }
